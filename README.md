@@ -3,11 +3,12 @@ AC UI Bootcamp
 
 AC UI Bootcamp is an organized effort towards learning key UI technologies.
 
+<a name="schedule"></a>
 ## Schedule
 
 ### 2013
 
-* [**Javascript for Real**](#javascript) by [Tiago Garcia](http://github.com/tiagorg)
+* [**Javascript**](#javascript) by [Tiago Garcia](http://github.com/tiagorg)
 * [**SASS**](#sass) by [Arthur Câmara](https://github.com/arthurcamara1)
 
 ### 2014 January
@@ -56,6 +57,8 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies.
 * [Youtube video - Part 1](http://www.youtube.com/watch?v=kV5uEoyJ-pQ)
 * [Youtube video - Part 2](http://www.youtube.com/watch?v=cSYSQyHwQ5o)
 
+Back to [Schedule](#schedule).
+
 <a name="sass"></a>
 ## SASS
 
@@ -67,6 +70,8 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies.
 * [Official website](http://sass-lang.com)
 * [Simple tutorial](http://net.tutsplus.com/sessions/mastering-sass)
 * [The SASS way](http://thesassway.com)
+
+Back to [Schedule](#schedule).
 
 <a name="backbonejs"></a>
 ## Backbone.js
@@ -82,3 +87,5 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies.
 * [Official website](http://backbonejs.org)
 * [Developing Backbone.js Applications - Addy Osmani](http://addyosmani.github.io/backbone-fundamentals)
 * [The Anatomy of Backbone.js - Codeschool](http://backbone.codeschool.com)
+
+Back to [Schedule](#schedule).
