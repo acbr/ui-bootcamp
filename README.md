@@ -7,12 +7,12 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies.
 
 ### 2013
 
-* **Javascript for Real** by [Tiago Garcia](http://github.com/tiagorg)
-* **SASS** by [Arthur Câmara](https://github.com/arthurcamara1)
+* [**Javascript for Real**](#javascript) by [Tiago Garcia](http://github.com/tiagorg)
+* [**SASS**](#sass) by [Arthur Câmara](https://github.com/arthurcamara1)
 
-### January
+### 2014 January
 
-* 1st week - **Backbone.js** by [Tiago Garcia](http://github.com/tiagorg)
+* 1st week - [**Backbone.js**](#backbonejs) by [Tiago Garcia](http://github.com/tiagorg)
 * 2nd week - **AMD / RequireJS** - ??
 * 3rd week - **Handlebars.js** by Alysson Ferreira
 * 4th week - **Good JS practices** by [Tiago Garcia](http://github.com/tiagorg)
@@ -47,6 +47,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies.
 
 ## Instructions
 
+<a name="javascript"></a>
 ## Javascript 
 
 ### AC Talk:
@@ -55,6 +56,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies.
 * [Youtube video - Part 1](http://www.youtube.com/watch?v=kV5uEoyJ-pQ)
 * [Youtube video - Part 2](http://www.youtube.com/watch?v=cSYSQyHwQ5o)
 
+<a name="sass"></a>
 ## SASS
 
 * **Building awesome UI components with SASS** by [Arthur Câmara](https://github.com/arthurcamara1)
@@ -66,6 +68,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies.
 * [Simple tutorial](http://net.tutsplus.com/sessions/mastering-sass)
 * [The SASS way](http://thesassway.com)
 
+<a name="backbonejs"></a>
 ## Backbone.js
 
 ### AC Talk:
