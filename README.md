@@ -51,9 +51,8 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies.
 <a name="javascript"></a>
 ## Javascript 
 
-### AC Talk:
+### AC Talk: **Javascript for real** by [Tiago Garcia](http://github.com/tiagorg)
 
-* **Javascript for real** by [Tiago Garcia](http://github.com/tiagorg)
 * [Youtube video - Part 1](http://www.youtube.com/watch?v=kV5uEoyJ-pQ)
 * [Youtube video - Part 2](http://www.youtube.com/watch?v=cSYSQyHwQ5o)
 
@@ -62,7 +61,8 @@ Back to [Schedule](#schedule).
 <a name="sass"></a>
 ## SASS
 
-* **Building awesome UI components with SASS** by [Arthur Câmara](https://github.com/arthurcamara1)
+### AC Talk: **Building awesome UI components with SASS** by [Arthur Câmara](https://github.com/arthurcamara1)
+
 * [Youtube video](http://www.youtube.com/watch?v=h7UussnL6Gs)
 
 ### Resources:
@@ -76,9 +76,8 @@ Back to [Schedule](#schedule).
 <a name="backbonejs"></a>
 ## Backbone.js
 
-### AC Talk:
+### AC Talk: **Boosting the client-side with Backbone.js** by [Tiago Garcia](http://github.com/tiagorg)
 
-* **Boosting the client-side with Backbone.js** by [Tiago Garcia](http://github.com/tiagorg)
 * [Slide deck](http://slid.es/avenuecode/boosting-the-client-side-with-backbone-js)
 * Youtube video
 
