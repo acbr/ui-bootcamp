@@ -31,6 +31,15 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
 1. Each time you have another topic, you should expand it HORIZONTALLY by adding a slide to the right.
 1. The 3 last slides should always be: Conclusions, Learn more (with the reference links) and Homework.
 1. Be welcome to try a different color/fonts scheme, as long as you keep the same template elements as: AC logo on the right bottom corner, line on the bottom, title below this line.
+1. If you don't want to reinven the wheel, just open each slide HTML source code and add on the bottom:
+
+```
+<div class="absolute-element" style="position: absolute; width: 719px; height: 46px; z-index: 4; left: 37px; top: 596px; color: #ccc">
+    <span>______________________________________________</span>
+    <div style="text-align: left; font-size: 24px;">------ MY LECTURE TITLE HERE -----</div>
+</div>
+<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/avenuecode/images/197088/logo.png" class="absolute-element" style="position: absolute; max-height: none; max-width: none; width: 153px; height: 109px; z-index: 4; left: 757px; top: 545px;">
+```
 
 ## Talk standards
 
