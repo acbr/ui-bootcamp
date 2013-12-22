@@ -16,93 +16,98 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td><b>Presented by</b></td>
     </tr>
     <tr>
-        <td rowspan="7"><a href="#javascript">Javascript</a></td>
+        <td rowspan="8"><a href="#javascript">Javascript</a></td>
         <td><a href="javascript-for-real">Javascript for Real</a></td>
-        <td>Aug 13th, 2013 and Aug 28th, 2013</td>
+        <td>Aug 13th, 2013 / Aug 28th, 2013</td>
         <td><a href="http://github.com/tiagorg">Tiago Garcia</a></td>
     </tr>
     <tr>
         <td>Javascript Design Patterns</td>
-        <td>Jan 4th week</td>
+        <td>Jan 29th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td>High Performance Javascript</td>
-        <td>Feb 1st week</td>
+        <td>Feb 5th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td>Large scale Javascript</td>
-        <td>Mar 2nd week</td>
+        <td>Mar 12th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td>Javascript micro-libraries</td>
-        <td>Apr 3rd week</td>
+        <td>Apr 16th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td>Javascript code coverage</td>
-        <td>Apr 4th week</td>
+        <td>Apr 23rd, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td>Javascript promises</td>
-        <td>May 3rd week</td>
+        <td>Apr 30th, 2014</td>
+        <td>??</td>
+    </tr>
+    <tr>
+        <td>ECMAScript 6</td>
+        <td>May 28th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td><a href="#backbonejs">Backbone.js</a></td>
         <td><a href="#boosting-the-client-side-with-backbonejs">Boosting the client-side with Backbone.js</a></td>
-        <td>Jan 1st week</td>
+        <td>Jan 8th, 2014</td>
         <td><a href="http://github.com/tiagorg">Tiago Garcia</a></td>
     </tr>
     <tr>
         <td><a href="#amd-requirejs">AMD / RequireJS</a></td>
         <td>??</td>
-        <td>Jan 2nd week</td>
+        <td>Jan 15th, 2014</td>
         <td>???</td>
     </tr>
     <tr>
         <td><a href="#handlebarsjs">Handlebars.js</a></td>
         <td>??</td>
-        <td>Jan 3rd week</td>
+        <td>Jan 22nd, 2014</td>
         <td>Alysson Ferreira</td>
     </tr>
     <tr>
         <td><a href="#grunt">Grunt</a></td>
         <td>??</td>
-        <td>Feb 2nd week</td>
+        <td>Feb 12th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td><a href="#jasmine">Jasmine</a></td>
         <td>??</td>
-        <td>Feb 3rd week</td>
+        <td>Feb 19th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td><a href="#jquery">jQuery</a></td>
         <td>Good jQuery practices</td>
-        <td>Feb 4th week</td>
+        <td>Feb 26th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td><a href="#underscorejs">Underscore.js</a></td>
         <td></td>
-        <td>Mar 1st week</td>
+        <td>Mar 5th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td><a href="#angularjs">AngularJS</a></td>
         <td></td>
-        <td>Mar 3rd week</td>
+        <td>Mar 19th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td><a href="#yeoman">Yeoman</a></td>
         <td></td>
-        <td>Mar 4th week</td>
+        <td>Mar 26th, 2014</td>
         <td>??</td>
     </tr>
 </table>
@@ -119,25 +124,25 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
     <tr>
         <td><a href="#html5">HTML5</a></td>
         <td></td>
-        <td>Apr 1st week</td>
+        <td>Apr 2nd, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td><a href="#css3">CSS3</a></td>
         <td></td>
-        <td>May 4th week</td>
+        <td>May 7th, 2014</td>
         <td>??</td>
     </tr>            
     <tr>
         <td><a href="#responsive-design">Responsive design</a></td>
         <td></td>
-        <td>Apr 2nd week</td>
+        <td>Apr 9th, 2014</td>
         <td>??</td>
     </tr>    
     <tr>
         <td><a href="#twitter-bootstrap">Twitter bootstrap</a></td>
         <td></td>
-        <td>May 1st week</td>
+        <td>May 21st, 2014</td>
         <td>??</td>
     </tr>
     <tr>
@@ -149,7 +154,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
     <tr>
         <td><a href="#compass">Compass</a></td>
         <td></td>
-        <td>May 2nd week</td>
+        <td>May 14th, 2014</td>
         <td>??</td>
     </tr>            
 </table>
