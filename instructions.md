@@ -9,6 +9,7 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
 1. Prepare the talk agenda in very clear and well-defined topics, and present it to your buddy.
 1. Go and register this talk in AC Miles. Feel free to advertise your talk in the company as much as you want :)
 1. Set up a Fuze meeting for your talk. If you don't have access, please ask your buddy for help.
+1. Ask your buddy to update this Github repo with your talk. Please give the link for your slide deck as well your GitHub account.
 
 ## Content steps
 
