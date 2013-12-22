@@ -3,8 +3,8 @@ AC UI Bootcamp
 
 AC UI Bootcamp is an organized effort towards learning key UI technologies in Avenue Code.
 
-* Slides here: [http://slid.es/avenuecode]
-* Videos here: [http://www.youtube.com/user/AvenueCodePlay]
+* Slides here: http://slid.es/avenuecode
+* Videos here: http://www.youtube.com/user/AvenueCodePlay
 
 <a name="contents"></a>
 ## Contents
@@ -199,6 +199,7 @@ Back to [Contents](#contents).
 <a name="building-awesome-ui-components-with-sass"></a>
 ### AC Talk: *Building awesome UI components with SASS* by [Arthur Câmara](https://github.com/arthurcamara1)
 
+* [Slide deck in PDF](https://github.com/acbr/ui-bootcamp/blob/master/lectures/Building%20awesome%20UI%20components%20with%20SASS.pdf?raw=true)
 * [Youtube video](http://www.youtube.com/watch?v=h7UussnL6Gs)
 
 #### Resources:
@@ -221,7 +222,7 @@ Back to [Contents](#contents).
 <a name="boosting-the-client-side-with-backbonejs"></a>
 ### AC Talk: *Boosting the client-side with Backbone.js* by [Tiago Garcia](http://github.com/tiagorg)
 
-* [Slide deck](http://slid.es/avenuecode/boosting-the-client-side-with-backbone-js)
+* [Slide deck @ slid.es](http://slid.es/avenuecode/boosting-the-client-side-with-backbone-js)
 * Youtube video
 
 #### Resources:
