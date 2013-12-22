@@ -37,7 +37,7 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
 <div class="absolute-element" style="position: absolute; width: 719px; height: 46px; z-index: 4; left: 37px; 
   top: 596px; color: #ccc">
     <span>______________________________________________</span>
-    <div style="text-align: left; font-size: 24px;">------ MY LECTURE TITLE HERE -----</div>
+    <div style="text-align: left; font-size: 24px;">MY LECTURE TITLE GOES HERE</div>
 </div>
 <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/avenuecode/images/197088/logo.png" class="absolute-element"
   style="position: absolute; max-height: none; max-width: none; width: 153px; height: 109px; z-index: 4; left: 757px; 
