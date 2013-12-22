@@ -143,6 +143,8 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
 
 ## Instructions
 
+If you are giving a talk, please check the [Instructions](https://github.com/acbr/ui-bootcamp/blob/master/instructions.md).
+
 <a name="javascript"></a>
 ## Javascript 
 
@@ -208,45 +210,3 @@ Back to [Contents](#contents).
 * [The Anatomy of Backbone.js - Codeschool](http://backbone.codeschool.com)
 
 Back to [Contents](#contents).
-
-## Schedule
-
-### 2013
-
-* [**Javascript**](#javascript) by [Tiago Garcia](http://github.com/tiagorg)
-* [**SASS**](#sass) by [Arthur Câmara](https://github.com/arthurcamara1)
-
-### 2014 January
-
-* 1st week - [**Backbone.js**](#backbonejs) by [Tiago Garcia](http://github.com/tiagorg)
-* 2nd week - **AMD / RequireJS** - ??
-* 3rd week - **Handlebars.js** by Alysson Ferreira
-* 4th week - **Good JS practices** by [Tiago Garcia](http://github.com/tiagorg)
-
-### February
-
-* 1st week - **JS design patterns** - ??
-* 2nd week - **JS high performance** - ??
-* 3rd week - **Grunt** - ??
-* 4th week - **TDD with Jasmine** - [Igor Lima](https://github.com/igorlima)
-
-### March
-
-* 1st week - **Good jQuery practices** - ??
-* 1st week - **Underscore.js** - ??
-* 2nd week - **Large-scale JS** - ??
-* 3rd week - **AngularJS** - ?? 
-
-### April
-
-* 1st week - **HTML5 and CSS3** - ??
-* 2nd week - **Responsive design** - ??
-* 3rd week - **Zepto.js and micro-libraries** - ??
-* 4th week - **JS code coverage**  - ??
-
-### May
-
-* 1st week - **Compass** - ??
-* 2nd week - **Bootstrap** - ??
-* 3rd week - **Zepto.js** - ??
-* 4th week - **Underscore.js** - ??
