@@ -3,6 +3,9 @@ AC UI Bootcamp
 
 AC UI Bootcamp is an organized effort towards learning key UI technologies in Avenue Code.
 
+* Slides here: [http://slid.es/avenuecode]
+* Videos here: [http://www.youtube.com/user/AvenueCodePlay]
+
 <a name="contents"></a>
 ## Contents
 
