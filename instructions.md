@@ -20,7 +20,7 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
 ## Slide deck standards
 
 1. Make sure you have read the slide decks from some previous AC talks to better understand about how it should be.
-2. 1. You should have access to the company account at [Slid.es](https://slid.es/avenuecode). If you don't have it, please ask your buddy.
+1. You should have access to the company account at [Slid.es](https://slid.es/avenuecode). If you don't have it, please ask your buddy.
 1. The easiest way to get the template is to fork a previous slide deck.
 1. The 1st slide should always be the cover, featuring your lecture name, your name, the lecture date and AC logo.
 1. The 2nd slide should always be the agenda, in topics.
