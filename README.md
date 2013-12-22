@@ -6,6 +6,8 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
 <a name="contents"></a>
 ## Contents
 
+### Javascript
+
 <table>
     <tr>
         <td><b>Subject</b></td>
@@ -102,6 +104,17 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td></td>
         <td>Mar 4th week</td>
         <td>??</td>
+    </tr>
+</table>
+
+### Presentation
+
+<table>
+    <tr>
+        <td><b>Subject</b></td>
+        <td><b>Topic</b></td>
+        <td><b>Presented in</b></td>
+        <td><b>Presented by</b></td>
     </tr>
     <tr>
         <td><a href="#html5">HTML5</a></td>
