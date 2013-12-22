@@ -17,7 +17,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td rowspan="7"><a href="#javascript">Javascript</a></td>
         <td><a href="javascript-for-real">Javascript for Real</a></td>
         <td>Aug 13th, 2013 and Aug 28th, 2013</td>
-        <td>[Tiago Garcia](http://github.com/tiagorg)</td>
+        <td><a href="http://github.com/tiagorg">Tiago Garcia</a></td>
     </tr>
     <tr>
         <td>Javascript Design Patterns</td>
@@ -50,16 +50,10 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td>??</td>
     </tr>
     <tr>
-        <td><a href="#sass">SASS</a></td>
-        <td><a href="#building-awesome-ui-components-with-sass">Building awesome UI components with SASS</a></td>
-        <td>Sep 25th, 2013</td>
-        <td>[Arthur Câmara](https://github.com/arthurcamara1)</td>
-    </tr>
-    <tr>
         <td><a href="#backbonejs">Backbone.js</a></td>
         <td><a href="#boosting-the-client-side-with-backbonejs">Boosting the client-side with Backbone.js</a></td>
         <td>Jan 1st week</td>
-        <td>[Tiago Garcia](http://github.com/tiagorg)</td>
+        <td><a href="http://github.com/tiagorg">Tiago Garcia</a></td>
     </tr>
     <tr>
         <td><a href="#amd-requirejs">AMD / RequireJS</a></td>
@@ -114,7 +108,13 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td></td>
         <td>Apr 1st week</td>
         <td>??</td>
-    </tr>    
+    </tr>
+    <tr>
+        <td><a href="#css3">CSS3</a></td>
+        <td></td>
+        <td>May 4th week</td>
+        <td>??</td>
+    </tr>            
     <tr>
         <td><a href="#responsive-design">Responsive design</a></td>
         <td></td>
@@ -126,17 +126,17 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td></td>
         <td>May 1st week</td>
         <td>??</td>
-    </tr>        
+    </tr>
+    <tr>
+        <td><a href="#sass">SASS</a></td>
+        <td><a href="#building-awesome-ui-components-with-sass">Building awesome UI components with SASS</a></td>
+        <td>Sep 25th, 2013</td>
+        <td><a href="https://github.com/arthurcamara1">Arthur Câmara</a></td>
+    </tr>
     <tr>
         <td><a href="#compass">Compass</a></td>
         <td></td>
         <td>May 2nd week</td>
-        <td>??</td>
-    </tr>            
-    <tr>
-        <td><a href="#css3">CSS3</a></td>
-        <td></td>
-        <td>May 4th week</td>
         <td>??</td>
     </tr>            
 </table>
@@ -160,7 +160,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
 * [Closure](http://ryanmorr.com/understanding-scope-and-context-in-javascript)
 * [Hoisting](http://tgarcia.com.br/desenvolvimento/como-funciona-hoisting-em-javascript)
 * [Callbacks](http://nodebr.com/como-evitar-o-inferno-de-callbacks/)
-* [Good practices 1](http://www.thinkful.com/learn/javascript-best-practices-1/ and [Good practices 2](http://www.thinkful.com/learn/javascript-best-practices-2)
+* [Good practices 1](http://www.thinkful.com/learn/javascript-best-practices-1/) and [Good practices 2](http://www.thinkful.com/learn/javascript-best-practices-2)
  
 #### Learn Javascript:
 
@@ -188,7 +188,7 @@ Back to [Contents](#contents).
 
 * [LESS](http://lesscss.org)
 * [Compass](http://compass-style.org)
-* [Stylus](learnboost.github.io/stylus)
+* [Stylus](http://learnboost.github.io/stylus)
 
 Back to [Contents](#contents).
 
