@@ -56,7 +56,7 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
 1. Don't use slangs neither bad words.
 1. Be objective. Don't overexplain in such way you could cause confusion to your attendees. 
 1. It is ok to joke around, but don't exaggerate.
-1. It is ok bring very brief off-topic discussions, but only if it doesn't disturb the natural flow of your content.
+1. It is ok to bring brief off-topic discussions, but only if it doesn't disturb the natural flow of your content.
 1. Train your english speaking. You will be listened by people all around the globe.
 1. Train your full talk at least once before your talk.
 1. If you are going to use examples or live coding, make sure you have them all prepared beforehand.
