@@ -16,10 +16,10 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
 ## Content steps
 
 1. Prepare the content in such way it will last no more than 50 minutes, leaving up to 10 minutes for questions.
-1. Prepare a homework that should take up to 10 hours of work to be delivered. It should not be so easy to be completed in a day.
-1. Think ahead on how will you correct the homeworks. If you think the work load is too heavy, please talk to your buddy so that you can look for some help from others.
-1. The homework should be a problem that would be solved using things that were covered on the talk. It is ok to go a little bit far (forcing the attendee to do some research), but not much.
-1. If appliable, it is recommended for the homework to be some problem that could be also used by the recruitment team. If that happens, we can create a small contest where the best solution will incorporate the recruitment material and the person who developed will receive a free lunch or some other prize.
+1. Prepare a assignment that should take up to 10 hours of work to be delivered. It should not be so easy to be completed in a day.
+1. Think ahead on how will you correct the assignments. If you think the work load is too heavy, please talk to your buddy so that you can look for some help from others.
+1. The assignment should be a problem that would be solved using things that were covered on the talk. It is ok to go a little bit far (forcing the attendee to do some research), but not much.
+1. If appliable, it is recommended for the assignment to be some problem that could be also used by the recruitment team. If that happens, we can create a small contest where the best solution will incorporate the recruitment material and the person who developed will receive a free lunch or some other prize.
 1. Give at least 3 reference links to be followed for further studies.
 
 ## Slide deck standards
