@@ -9,7 +9,8 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
 1. Prepare the talk agenda in very clear and well-defined topics, and present it to your buddy.
 1. Go and register this talk in AC Miles. Feel free to advertise your talk in the company as much as you want :)
 1. Set up a Fuze meeting for your talk. If you don't have access, please ask your buddy for help.
-1. Ask your buddy to update this Github repo with your talk. Please give the link for your slide deck as well your GitHub account.
+1. Ask on [ui.bootcamp@avenuecode.com](mailto:ui.bootcamp@avenuecode.com) to update our Github repo with your talk. Please provide your GitHub account.
+1. Now you should start working on your slide deck, and as soon it is completed, please send an email to [ui.bootcamp@avenuecode.com](mailto:ui.bootcamp@avenuecode.com) with your slide deck link, so that we will fork it within Avenue Code's account.
 
 ## Content steps
 
@@ -22,16 +23,11 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
 
 ## Slide deck standards
 
-1. Make sure you have read the slide decks from some previous AC talks to better understand about how it should be.
-1. You should have access to the company account at [Slid.es](https://slid.es/avenuecode). If you don't have it, please ask your buddy.
-1. The easiest way to get the template is to fork a previous slide deck.
-1. The 1st slide should always be the cover, featuring your lecture name, your name, the lecture date and AC logo.
-1. The 2nd slide should always be the agenda, in topics.
-1. Each time you have content from a same topic that doesn't fit on the slide, you should expand it VERTICALLY by adding a slide below.
-1. Each time you have another topic, you should expand it HORIZONTALLY by adding a slide to the right.
-1. The 3 last slides should always be: Conclusions, Learn more (with the reference links) and Homework.
+1. Sign up for a free account at [Slid.es](http://slid.es).
+1. Fork any slide deck from [Avenue Code's slid.es account](https://slid.es/avenuecode) - this will create a copy of this talk in your personal account, which you can freely change. This approach is recommended because you will get the template featuring the footer with AC logo.
+1. Make sure you have read some slide decks from previous AC talks to better understand about how it should be.
 1. Be welcome to try a different color/fonts scheme, as long as you keep the same template elements as: AC logo on the right bottom corner, line on the bottom, title below this line.
-1. If you don't want to reinven the wheel, just open each slide HTML source code and add on the bottom:
+1. If you prefer starting from scratch instead, make your template but please make sure open each slide's HTML source code and add on the bottom the following code to the get the footer with AC logo:
 
 ```
 <div class="absolute-element" style="position: absolute; width: 719px; height: 46px; z-index: 4; left: 37px; 
@@ -43,6 +39,15 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
   style="position: absolute; max-height: none; max-width: none; width: 153px; height: 109px; z-index: 4; left: 757px; 
   top: 545px;">
 ```
+
+## Slide deck organization
+
+1. The 1st slide should always be the cover, featuring your lecture name, your name, the lecture date and AC logo.
+1. The 2nd slide should always be the agenda, in topics.
+1. From the 3rd slide on it should start your content.
+1. Every time you have content from a same topic that doesn't fit on the slide, you should expand it VERTICALLY by adding a slide below.
+1. Every time the next slide is about a different topic, you should expand it HORIZONTALLY by adding a slide to the right.
+1. The 3 last slides should always be: Conclusions, Learn more (with the reference links) and Assignment.
 
 ## Talk standards
 
