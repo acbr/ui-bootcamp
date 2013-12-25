@@ -7,8 +7,9 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
 1. Get approval / confirmation from the buddies.
 1. Pick a attractive, interesting title for your talk. If you can't think on a good name, please ask your buddy a suggestion.
 1. Prepare the talk agenda in very clear and well-defined topics, and present it to your buddy.
+1. Set up the time for your talk. You can pick max 1h time slot, which currently is 2pm-3pm (before SF starts) or 6pm-7pm (in SF lunch time).
 1. Go and register this talk in AC Miles. Feel free to advertise your talk in the company as much as you want :)
-1. Set up a Fuze meeting for your talk. If you don't have access, please ask your buddy for help.
+1. Set up the a Fuze meeting for your talk. If you don't have access, please ask your buddy for help.
 1. Ask on [ui.bootcamp@avenuecode.com](mailto:ui.bootcamp@avenuecode.com) to update our Github repo with your talk. Please provide your GitHub account.
 1. Now you should start working on your slide deck, and as soon it is completed, please send an email to [ui.bootcamp@avenuecode.com](mailto:ui.bootcamp@avenuecode.com) with your slide deck link, so that we will fork it within Avenue Code's account.
 
