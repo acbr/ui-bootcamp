@@ -69,7 +69,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td><a href="#amd-requirejs">AMD / RequireJS</a></td>
         <td>??</td>
         <td>Jan 15th, 2014</td>
-        <td>???</td>
+        <td>Henrique Filho</td>
     </tr>
     <tr>
         <td><a href="#handlebarsjs">Handlebars.js</a></td>
