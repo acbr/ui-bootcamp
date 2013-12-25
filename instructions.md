@@ -52,17 +52,17 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
 
 ## Talk standards
 
-1. Make sure you watched some previous AC talks to better understand about how to use your voice and conduct the talk.
-1. Don't use slangs neither bad words.
-1. Be objective. Don't overexplain in such way you could cause confusion to your attendees. 
-1. It is ok to joke around, but don't exaggerate.
-1. It is ok to bring brief off-topic discussions, but only if it doesn't disturb the natural flow of your content.
+1. BE CONSISTENT. Make sure you watched some previous AC talks to better understand about how to use your voice and conduct the talk.
+1. BE POLITE. Don't use slangs neither bad words.
+1. BE OBJECTIVE. Don't overexplain in such way you could cause confusion to your attendees. 
+1. DON'T BE BORING. You should be yourself. It is ok to joke around, but don't exaggerate.
+1. KEEP FOCUS. It is ok to bring brief off-topic discussions, but only if it doesn't disturb the natural flow of your content.
+1. BE PREPARED. If you are going to use examples or live coding, make sure you have them all prepared beforehand.
+1. DON'T BE ARROGANT. Don't focus on yourself, like "you are awesome because you know lots of stuff". You could be Chuck Norris or Yoda, but please remember that people are not watching this talk to know about your adventures. It is ok to talk about something great that you did but just as an illustrative example which is related with the talk subject.
+1. DON'T GENERALIZE, specially stuff that you are not sure about. For instance, you can't come and say that Backbone.js is the most robust MV* framework or that SASS is the fastest CSS pre-processor - you would need to prove that, so we would even recommend you not saying such things.
+1. USE REAL DATA. Make sure you put trustable references on data you expose. Like, you can't base on your own expertise to say that Backbone.js is used on 60% of the websites that use a MV* framework. You need to prove that with real data and provide a trustable reference on this data.
 1. Train your english speaking. You will be listened by people all around the globe.
 1. Train your full talk at least once before your talk.
-1. If you are going to use examples or live coding, make sure you have them all prepared beforehand.
-1. DON'T focus on yourself, like "you are awesome because you know lots of stuff". You could be Chuck Norris or Yoda, but please remember that people are not watching this talk to know about your adventures. It is ok to talk about something great that you did but just as an illustrative example which is related with the talk subject.
-1. DON'T generalize stuff that you are not sure about. For instance, you can't come and say that Backbone.js is the most robust MV* framework or that SASS is the fastest CSS pre-processor - you would need to prove that, so we would even recommend you not saying such things.
-1. Make sure you put trustable references on data you expose. Like, you can't base on your own expertise to say that Backbone.js is used on 60% of the websites that use a MV* framework. You need to prove that with real data and provide a trustable reference on this data.
 
 ## Tips from UI Bootcamp organizers:
 
@@ -70,4 +70,4 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
 * Please be open to receive questions and even criticism. Do NEVER reply harshly even if you receive a complain in the front of the audience. 
 * ALWAYS be polite when talking to your audience.
 * It is common that people will look for you with questions and more complex cases after your talk. Please consider it as a gift, it means that you represent something good for those people! 
-* If you don't give enough attention to people after your talk, you will be very UNFAIR with the chance that was given to you for giving the talk. Please remember that the same could happen to you.
+* If you don't give enough attention to people after your talk, you will be very UNFAIR with the chance that was given to you for giving the talk. Please put yourself on their side before reacting.
