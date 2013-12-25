@@ -61,8 +61,8 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
 1. Train your full talk at least once before your talk.
 1. If you are going to use examples or live coding, make sure you have them all prepared beforehand.
 1. DON'T focus on yourself, like "you are awesome because you know lots of stuff". You could be Chuck Norris or Yoda, but please remember that people are not watching this talk to know about your adventures. It is ok to talk about something great that you did but just as an illustrative example which is related with the talk subject.
-1 DON'T generalize stuff that you are not sure about. For instance, you can't come and say that Backbone.js is the most robust MV* framework or that SASS is the fastest CSS pre-processor - you would need to prove that, so we would even recommend you not saying such things.
-1 Make sure you put trustable references on data you expose. Like, you can't base on your own expertise to say that Backbone.js is used on 60% of the websites that use a MV* framework. You need to prove that with real data and provide a trustable reference on this data.
+1. DON'T generalize stuff that you are not sure about. For instance, you can't come and say that Backbone.js is the most robust MV* framework or that SASS is the fastest CSS pre-processor - you would need to prove that, so we would even recommend you not saying such things.
+1. Make sure you put trustable references on data you expose. Like, you can't base on your own expertise to say that Backbone.js is used on 60% of the websites that use a MV* framework. You need to prove that with real data and provide a trustable reference on this data.
 
 ## Tips from UI Bootcamp organizers:
 
