@@ -75,7 +75,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td><a href="#handlebarsjs">Handlebars.js</a></td>
         <td>??</td>
         <td>Jan 22nd, 2014</td>
-        <td>Alysson Ferreira</td>
+        <td><a href="http://github.com/alysson-macys">Alysson Ferreira</a></td>
     </tr>
     <tr>
         <td><a href="#grunt">Grunt</a></td>
