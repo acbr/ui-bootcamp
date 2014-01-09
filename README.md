@@ -191,6 +191,12 @@ If you are giving a talk, please check the [Instructions](https://github.com/acb
 * [Eloquent Javascript - intermediate to advanced](http://eloquentjavascript.net/contents.html)
 * [Javascript: The Good Parts - intermediate to advanced](http://shop.oreilly.com/product/9780596517748.do)
 
+#### Pre-requisites:
+ 
+* HTML
+* CSS
+* Familiary with Javascript
+
 Back to [Contents](#contents).
 
 <a name="sass"></a>
@@ -213,6 +219,11 @@ Back to [Contents](#contents).
 * [LESS](http://lesscss.org)
 * [Compass](http://compass-style.org)
 * [Stylus](http://learnboost.github.io/stylus)
+ 
+#### Pre-requisites:
+
+* HTML
+* CSS
 
 Back to [Contents](#contents).
 
@@ -232,5 +243,10 @@ Back to [Contents](#contents).
 * [The Anatomy of Backbone.js - Codeschool](http://backbone.codeschool.com)
 * [How Backbone works behind the scenes](http://backbonejs.org/docs/backbone.html)
 * [API-First - Design apps from the API](http://www.api-first.com/)
+
+#### Pre-requisites:
+
+* Javascript
+* Familiarity with web frameworks such as Struts, JSF, Rails, Spring MVC...
 
 Back to [Contents](#contents).
