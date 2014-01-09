@@ -230,5 +230,7 @@ Back to [Contents](#contents).
 * [Official website](http://backbonejs.org)
 * [Developing Backbone.js Applications - Addy Osmani](http://addyosmani.github.io/backbone-fundamentals)
 * [The Anatomy of Backbone.js - Codeschool](http://backbone.codeschool.com)
+* [How Backbone works behind the scenes](http://backbonejs.org/docs/backbone.html)
+* [API-First - Design apps from the API](http://www.api-first.com/)
 
 Back to [Contents](#contents).
