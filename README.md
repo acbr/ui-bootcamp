@@ -268,7 +268,7 @@ Back to [Contents](#contents).
 * [CommonJS wiki](http://wiki.commonjs.org/wiki/CommonJS)
 * [AMD wiki](https://github.com/amdjs/amdjs-api/wiki/AMD)
 * [Require JS Official website](requirejs.org)
-* * [Advanced Usage](http://requirejs.org/docs/faq-advanced.html)
+    * [Advanced Usage](http://requirejs.org/docs/faq-advanced.html)
 * [Egghead example](https://egghead.io/lessons/requirejs-introduction-to-requirejs)
 
 Back to [Contents](#contents).
