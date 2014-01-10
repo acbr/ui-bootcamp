@@ -16,10 +16,10 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
 ## Content steps
 
 1. Prepare the content in such way it will last no more than 50 minutes, leaving up to 10 minutes for questions.
-1. Prepare an assignment that should take up to 10 hours of work to be delivered. It should not be so easy to be completed in a day.
-1. Think ahead on how will you correct the assignments. If you think the work load is too heavy, please talk to your buddy so that you can look for some help from others.
-1. The assignment should be a problem that would be solved using things that were covered on the talk. It is ok to go a little bit far (forcing the attendee to do some research), but not much.
-1. If appliable, it is recommended for the assignment to be some problem that could be also used by the recruitment team. If that happens, we can create a small contest where the best solution will incorporate the recruitment material and the person who developed will receive a free lunch or some other prize.
+1. Prepare an assignment that should take up to 3 hours of work to be delivered. It should not be hard, however not so easy to be completed in 1 hour.
+1. Think ahead on how will you correct the assignments. If you think the work load is too heavy for you, please talk to your buddy so that you can look for some help from others.
+1. The assignment should be a problem that would be solved using things that were covered on the talk. It is ok to go a little bit far (forcing the attendee to do some research), but that should be optional.
+1. If appliable, the assignment could be some problem to be later used by the recruitment team. If that happens, we can create a small contest where the best solution will incorporate the recruitment material and the person who developed will receive a free lunch or some other prize.
 1. Give at least 3 reference links to be followed for further studies.
 
 ## Slide deck standards
@@ -45,13 +45,15 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
 
 1. The 1st slide should always be the cover, featuring your lecture name, your name, the lecture date and AC logo.
 1. The 2nd slide should always be the agenda, in topics.
-1. From the 3rd slide on it should start your content.
+1. The 3nd slide should list the pre-requisites of your talk.
+1. From the 4th slide on it should start your content.
 1. Every time you have content from a same topic that doesn't fit on the slide, you should expand it VERTICALLY by adding a slide below.
 1. Every time the next slide is about a different topic, you should expand it HORIZONTALLY by adding a slide to the right.
 1. The 3 last slides should always be: Conclusions, Learn more (with the reference links) and Assignment.
 
 ## Talk standards
 
+1. BALANCE CONCEPTS AND TECHNICAL CONTENT. It's a matter of finding the 'sweet spot', where the presenter keeps the subject interesting for everybody, has a good velocity and touches deeper concept details wisely.
 1. BE CONSISTENT. Make sure you watched some previous AC talks to better understand about how to use your voice and conduct the talk.
 1. BE POLITE. Don't use slangs neither bad words.
 1. BE OBJECTIVE. Don't overexplain in such way you could cause confusion to your attendees. 
