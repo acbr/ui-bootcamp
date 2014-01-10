@@ -45,7 +45,7 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
 
 1. The 1st slide should always be the cover, featuring your lecture name, your name, the lecture date and AC logo.
 1. The 2nd slide should always be the agenda, in topics.
-1. The 3nd slide should list the pre-requisites of your talk.
+1. The 3nd slide should list the prerequisites of your talk.
 1. From the 4th slide on it should start your content.
 1. Every time you have content from a same topic that doesn't fit on the slide, you should expand it VERTICALLY by adding a slide below.
 1. Every time the next slide is about a different topic, you should expand it HORIZONTALLY by adding a slide to the right.
