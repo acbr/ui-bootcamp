@@ -256,7 +256,7 @@ Back to [Contents](#contents).
 <a name="a-javascript-module-loader-requirejs"></a>
 ### AC Talk: *A Javascript Module Loader - RequireJS* by [Henrique Filho](http://github.com/henriquecholo)
 
-* [Slide deck @ slid.es](http://slid.es/avenuecode/boosting-the-client-side-with-backbone-js)
+* [Slide deck @ slid.es](http://slid.es/avenuecode/a-javascript-module-loader-require-js)
 * Youtube video
  
 #### Prerequisites:
@@ -265,6 +265,10 @@ Back to [Contents](#contents).
 
 #### Resources:
 
-*
+* [CommonJS wiki](http://wiki.commonjs.org/wiki/CommonJS)
+* [AMD wiki](https://github.com/amdjs/amdjs-api/wiki/AMD)
+* [Require JS Official website](requirejs.org)
+** [Advanced Usage](http://requirejs.org/docs/faq-advanced.html)
+* [Egghead example](https://egghead.io/lessons/requirejs-introduction-to-requirejs)
 
 Back to [Contents](#contents).
