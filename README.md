@@ -26,37 +26,36 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
     </tr>
     <tr>
         <td>Javascript Design Patterns</td>
-        <td>Jan 29th, 2014</td>
-        <td>??</td>
+        <td>Jan 27th, 2014</td>
+        <td><a href="http://github.com/tiagorg">Tiago Garcia</a></td>
     </tr>
     <tr>
         <td>High Performance Javascript</td>
         <td>Feb 5th, 2014</td>
-        <td>??</td>
+        <td><a href="http://github.com/gtrindade">Guilherme Gonçalves</a></td>
     </tr>
     <tr>
-        <td>Large scale Javascript</td>
-        <td>Mar 12th, 2014</td>
+        <td>Large Feb 24th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td>Javascript micro-libraries</td>
-        <td>Apr 16th, 2014</td>
+        <td>Mar 6th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td>Javascript code coverage</td>
-        <td>Apr 23rd, 2014</td>
+        <td>Mar 10th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td>Javascript promises</td>
-        <td>Apr 30th, 2014</td>
+        <td>Mar 13th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td>ECMAScript 6</td>
-        <td>May 28th, 2014</td>
+        <td>Mar 27th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
@@ -67,50 +66,50 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
     </tr>
     <tr>
         <td><a href="#amd-requirejs">AMD / RequireJS</a></td>
-        <td>??</td>
-        <td>Jan 15th, 2014</td>
+        <td><a href="#a-javascript-module-loader-requirejs">A Javascript Module Loader - RequireJS</a></td>
+        <td>Jan 14th, 2014</td>
         <td><a href="http://github.com/henriquecholo">Henrique Filho</a></td>
     </tr>
     <tr>
         <td><a href="#handlebarsjs">Handlebars.js</a></td>
         <td>??</td>
-        <td>Jan 22nd, 2014</td>
+        <td>Jan 20th, 2014</td>
         <td><a href="http://github.com/alysson-macys">Alysson Ferreira</a></td>
     </tr>
     <tr>
         <td><a href="#grunt">Grunt</a></td>
         <td>??</td>
-        <td>Feb 12th, 2014</td>
-        <td>??</td>
+        <td>Feb 3rd, 2014</td>
+        <td><a href="http://github.com/rafaelmenta">Rafael Menta</a></td>
     </tr>
     <tr>
         <td><a href="#jasmine">Jasmine</a></td>
         <td>??</td>
         <td>Feb 19th, 2014</td>
-        <td>??</td>
+        <td><a href="http://github.com/igorlima">Igor Lima</a></td>
     </tr>
     <tr>
         <td><a href="#jquery">jQuery</a></td>
         <td>Good jQuery practices</td>
-        <td>Feb 26th, 2014</td>
+        <td>Feb 10th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td><a href="#underscorejs">Underscore.js</a></td>
         <td></td>
-        <td>Mar 5th, 2014</td>
+        <td>Feb 20th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td><a href="#angularjs">AngularJS</a></td>
         <td></td>
-        <td>Mar 19th, 2014</td>
+        <td>Feb 13th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td><a href="#yeoman">Yeoman</a></td>
         <td></td>
-        <td>Mar 26th, 2014</td>
+        <td>Feb 17th, 2014</td>
         <td>??</td>
     </tr>
 </table>
@@ -127,25 +126,25 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
     <tr>
         <td><a href="#html5">HTML5</a></td>
         <td></td>
-        <td>Apr 2nd, 2014</td>
+        <td>Feb 27th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
         <td><a href="#css3">CSS3</a></td>
         <td></td>
-        <td>May 7th, 2014</td>
+        <td>Mar 3rd, 2014</td>
         <td>??</td>
     </tr>            
     <tr>
         <td><a href="#responsive-design">Responsive design</a></td>
         <td></td>
-        <td>Apr 9th, 2014</td>
-        <td>??</td>
+        <td>Feb 6th, 2014</td>
+        <td>Raphael Oliveira</td>
     </tr>    
     <tr>
         <td><a href="#twitter-bootstrap">Twitter bootstrap</a></td>
         <td></td>
-        <td>May 21st, 2014</td>
+        <td>Mar 17th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
@@ -157,7 +156,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
     <tr>
         <td><a href="#compass">Compass</a></td>
         <td></td>
-        <td>May 14th, 2014</td>
+        <td>Mar 24th, 2014</td>
         <td>??</td>
     </tr>            
 </table>
@@ -248,5 +247,24 @@ Back to [Contents](#contents).
 * [The Anatomy of Backbone.js - Codeschool](http://backbone.codeschool.com)
 * [How Backbone works behind the scenes](http://backbonejs.org/docs/backbone.html)
 * [API-First - Design apps from the API](http://www.api-first.com/)
+
+Back to [Contents](#contents).
+
+<a name="amd-requirejs"></a>
+## RequireJS
+
+<a name="a-javascript-module-loader-requirejs"></a>
+### AC Talk: *A Javascript Module Loader - RequireJS* by [Henrique Filho](http://github.com/henriquecholo)
+
+* [Slide deck @ slid.es](http://slid.es/avenuecode/boosting-the-client-side-with-backbone-js)
+* Youtube video
+ 
+#### Prerequisites:
+
+* Javascript
+
+#### Resources:
+
+*
 
 Back to [Contents](#contents).
