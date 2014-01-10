@@ -175,6 +175,12 @@ If you are giving a talk, please check the [Instructions](https://github.com/acb
 * [Youtube video - Part 1](http://www.youtube.com/watch?v=kV5uEoyJ-pQ)
 * [Youtube video - Part 2](http://www.youtube.com/watch?v=cSYSQyHwQ5o)
 
+#### Prerequisites:
+ 
+* HTML
+* CSS
+* Familiary with Javascript
+
 #### Resources:
 
 * [Values, variables and literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Values,_variables,_and_literals)
@@ -191,12 +197,6 @@ If you are giving a talk, please check the [Instructions](https://github.com/acb
 * [Eloquent Javascript - intermediate to advanced](http://eloquentjavascript.net/contents.html)
 * [Javascript: The Good Parts - intermediate to advanced](http://shop.oreilly.com/product/9780596517748.do)
 
-#### Pre-requisites:
- 
-* HTML
-* CSS
-* Familiary with Javascript
-
 Back to [Contents](#contents).
 
 <a name="sass"></a>
@@ -207,6 +207,11 @@ Back to [Contents](#contents).
 
 * [Slide deck in PDF](https://github.com/acbr/ui-bootcamp/blob/master/lectures/Building%20awesome%20UI%20components%20with%20SASS.pdf?raw=true)
 * [Youtube video](http://www.youtube.com/watch?v=h7UussnL6Gs)
+
+#### Prerequisites:
+
+* HTML
+* CSS
 
 #### Resources:
 
@@ -220,11 +225,6 @@ Back to [Contents](#contents).
 * [Compass](http://compass-style.org)
 * [Stylus](http://learnboost.github.io/stylus)
  
-#### Pre-requisites:
-
-* HTML
-* CSS
-
 Back to [Contents](#contents).
 
 <a name="backbonejs"></a>
@@ -235,6 +235,11 @@ Back to [Contents](#contents).
 
 * [Slide deck @ slid.es](http://slid.es/avenuecode/boosting-the-client-side-with-backbone-js)
 * Youtube video
+ 
+#### Prerequisites:
+
+* Javascript
+* Familiarity with web frameworks such as Struts, JSF, Rails, Spring MVC...
 
 #### Resources:
 
@@ -243,10 +248,5 @@ Back to [Contents](#contents).
 * [The Anatomy of Backbone.js - Codeschool](http://backbone.codeschool.com)
 * [How Backbone works behind the scenes](http://backbonejs.org/docs/backbone.html)
 * [API-First - Design apps from the API](http://www.api-first.com/)
-
-#### Pre-requisites:
-
-* Javascript
-* Familiarity with web frameworks such as Struts, JSF, Rails, Spring MVC...
 
 Back to [Contents](#contents).
