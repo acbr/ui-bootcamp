@@ -261,7 +261,7 @@ Back to [Contents](#contents).
  
 #### Prerequisites:
 
-* Javascript
+* Javascript intermediate/advanced
 
 #### Resources:
 
