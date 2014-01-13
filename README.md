@@ -93,7 +93,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td><a href="#underscorejs">Underscore.js</a></td>
         <td></td>
         <td>Feb 10th, 2014</td>
-        <td>Cristopher Silva</td>
+        <td><a href="http://github.com/mxtopher">Cristopher Silva</a></td>
     </tr>
     <tr>
         <td><a href="#angularjs">AngularJS</a></td>
