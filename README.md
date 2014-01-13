@@ -125,6 +125,18 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td><b>Presented by</b></td>
     </tr>
     <tr>
+        <td><a href="#sass">SASS</a></td>
+        <td><a href="#building-awesome-ui-components-with-sass">Building awesome UI components with SASS</a></td>
+        <td>Sep 25th, 2013</td>
+        <td><a href="https://github.com/arthurcamara1">Arthur Câmara</a></td>
+    </tr>
+    <tr>
+        <td><a href="#responsive-design">Responsive design</a></td>
+        <td></td>
+        <td>Feb 6th, 2014</td>
+        <td>Raphael Oliveira</td>
+    </tr>    
+    <tr>
         <td><a href="#html5">HTML5</a></td>
         <td></td>
         <td>Feb 20th, 2014</td>
@@ -142,22 +154,10 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td><a href="http://github.com/cironunes">Ciro Nunes</a></td>
     </tr>            
     <tr>
-        <td><a href="#responsive-design">Responsive design</a></td>
-        <td></td>
-        <td>Feb 6th, 2014</td>
-        <td>Raphael Oliveira</td>
-    </tr>    
-    <tr>
         <td><a href="#twitter-bootstrap">Twitter bootstrap and Foundation</a></td>
         <td></td>
         <td>Feb 27th, 2014</td>
         <td>??</td>
-    </tr>
-    <tr>
-        <td><a href="#sass">SASS</a></td>
-        <td><a href="#building-awesome-ui-components-with-sass">Building awesome UI components with SASS</a></td>
-        <td>Sep 25th, 2013</td>
-        <td><a href="https://github.com/arthurcamara1">Arthur Câmara</a></td>
     </tr>
     <tr>
         <td><a href="#compass">Compass</a></td>
