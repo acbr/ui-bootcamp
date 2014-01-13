@@ -248,6 +248,17 @@ Back to [Contents](#contents).
 * [How Backbone works behind the scenes](http://backbonejs.org/docs/backbone.html)
 * [API-First - Design apps from the API](http://www.api-first.com/)
 
+#### How to organize your app:
+
+* [Backbone generator - Yeoman](https://github.com/yeoman/generator-backbone)
+    * [Building Apps With the Yeoman Workflow](http://net.tutsplus.com/tutorials/javascript-ajax/building-apps-with-the-yeoman-workflow/)
+* [Backbone boilerplate](http://backboneboilerplate.com/)
+* [Super Simple Backbone Starter Kit / Boilerplate](http://webapplog.com/super-simple-backbone-starter-kit-boilerplate/)
+
+#### Live educative sample:
+
+* [Backbone.js - TodoMVC](http://todomvc.com/architecture-examples/backbone/)
+
 Back to [Contents](#contents).
 
 <a name="amd-requirejs"></a>
