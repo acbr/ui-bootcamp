@@ -25,23 +25,19 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td><a href="http://github.com/tiagorg">Tiago Garcia</a></td>
     </tr>
     <tr>
-        <td>Javascript Design Patterns</td>
+        <td>Design Patterns for Large-Scale Javascript</td>
         <td>Jan 27th, 2014</td>
         <td><a href="http://github.com/tiagorg">Tiago Garcia</a></td>
     </tr>
     <tr>
         <td>High Performance Javascript</td>
-        <td>Feb 5th, 2014</td>
+        <td>Jan 30rd, 2014</td>
         <td><a href="http://github.com/gtrindade">Guilherme Gonçalves</a></td>
-    </tr>
-    <tr>
-        <td>Large Feb 24th, 2014</td>
-        <td>??</td>
     </tr>
     <tr>
         <td>Javascript micro-libraries</td>
         <td>Mar 6th, 2014</td>
-        <td>??</td>
+        <td><a href="http://github.com/cironunes">Ciro Nunes</a></td>
     </tr>
     <tr>
         <td>Javascript code coverage</td>
@@ -50,12 +46,17 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
     </tr>
     <tr>
         <td>Javascript promises</td>
-        <td>Mar 13th, 2014</td>
+        <td>Mar 17th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
+        <td>Design Patterns for Javascript organization</td>
+        <td>Mar 20th, 2014</td>
+        <td><a href="http://github.com/tiagorg">Tiago Garcia</a></td>
+    </tr>
+    <tr>
         <td>ECMAScript 6</td>
-        <td>Mar 27th, 2014</td>
+        <td>Mar 31st, 2014</td>
         <td>??</td>
     </tr>
     <tr>
@@ -77,33 +78,27 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td><a href="http://github.com/alysson-macys">Alysson Ferreira</a></td>
     </tr>
     <tr>
-        <td><a href="#grunt">Grunt</a></td>
-        <td>??</td>
-        <td>Feb 3rd, 2014</td>
-        <td><a href="http://github.com/rafaelmenta">Rafael Menta</a></td>
-    </tr>
-    <tr>
         <td><a href="#jasmine">Jasmine</a></td>
         <td>??</td>
-        <td>Feb 19th, 2014</td>
+        <td>Jan 23rd, 2014</td>
         <td><a href="http://github.com/igorlima">Igor Lima</a></td>
     </tr>
     <tr>
-        <td><a href="#jquery">jQuery</a></td>
-        <td>Good jQuery practices</td>
-        <td>Feb 10th, 2014</td>
+        <td><a href="#grunt">Grunt</a></td>
         <td>??</td>
+        <td>Feb 3rd, 2014</td>
+        <td><a href="http://github.com/rafaelmenta">Rafael Guedes</a></td>
     </tr>
     <tr>
         <td><a href="#underscorejs">Underscore.js</a></td>
         <td></td>
-        <td>Feb 20th, 2014</td>
-        <td>??</td>
+        <td>Feb 17th, 2014</td>
+        <td>Cristopher Silva</td>
     </tr>
     <tr>
         <td><a href="#angularjs">AngularJS</a></td>
         <td></td>
-        <td>Feb 13th, 2014</td>
+        <td>Feb 10th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
@@ -111,6 +106,12 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td></td>
         <td>Feb 17th, 2014</td>
         <td>??</td>
+    </tr>
+    <tr>
+        <td><a href="#jquery">jQuery</a></td>
+        <td>Good jQuery practices</td>
+        <td>Mar 27th, 2014</td>
+        <td><a href="http://github.com/henriquecholo">Henrique Filho</a></td>
     </tr>
 </table>
 
@@ -126,14 +127,19 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
     <tr>
         <td><a href="#html5">HTML5</a></td>
         <td></td>
-        <td>Feb 27th, 2014</td>
+        <td>Feb 20th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
-        <td><a href="#css3">CSS3</a></td>
+        <td rowspan="2"><a href="#css3">CSS3</a></td>
         <td></td>
-        <td>Mar 3rd, 2014</td>
+        <td>Feb 24th, 2014</td>
         <td>??</td>
+    </tr>            
+    <tr>
+        <td>Scalable and Modular CSS</td>
+        <td>Mar 24th, 2014</td>
+        <td><a href="http://github.com/cironunes">Ciro Nunes</a></td>
     </tr>            
     <tr>
         <td><a href="#responsive-design">Responsive design</a></td>
@@ -142,9 +148,9 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td>Raphael Oliveira</td>
     </tr>    
     <tr>
-        <td><a href="#twitter-bootstrap">Twitter bootstrap</a></td>
+        <td><a href="#twitter-bootstrap">Twitter bootstrap and Foundation</a></td>
         <td></td>
-        <td>Mar 17th, 2014</td>
+        <td>Feb 27th, 2014</td>
         <td>??</td>
     </tr>
     <tr>
@@ -156,7 +162,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
     <tr>
         <td><a href="#compass">Compass</a></td>
         <td></td>
-        <td>Mar 24th, 2014</td>
+        <td>Mar 13th, 2014</td>
         <td>??</td>
     </tr>            
 </table>
