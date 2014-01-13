@@ -252,7 +252,8 @@ Back to [Contents](#contents).
 
 * [Backbone generator - Yeoman](https://github.com/yeoman/generator-backbone)
     * [Building Apps With the Yeoman Workflow](http://net.tutsplus.com/tutorials/javascript-ajax/building-apps-with-the-yeoman-workflow/)
-* [Backbone boilerplate](http://backboneboilerplate.com/)
+* [Backbone boilerplates - Addy Osmani](https://github.com/addyosmani/backbone-boilerplates)
+* [Another backbone boilerplate](http://backboneboilerplate.com/)
 * [Super Simple Backbone Starter Kit / Boilerplate](http://webapplog.com/super-simple-backbone-starter-kit-boilerplate/)
 
 #### Live educative sample:
