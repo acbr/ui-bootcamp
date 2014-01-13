@@ -41,6 +41,8 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
   top: 545px;">
 ```
 
+1. After you are done, please go and setup each one of the FRAGMENTS so that each topic appear one per time. Should you have any question on this regard, please talk to Tiago.
+
 ## Slide deck organization
 
 1. The 1st slide should always be the cover, featuring your lecture name, your name, the lecture date and AC logo.
@@ -49,22 +51,26 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
 1. From the 4th slide on it should start your content.
 1. Every time you have content from a same topic that doesn't fit on the slide, you should expand it VERTICALLY by adding a slide below.
 1. Every time the next slide is about a different topic, you should expand it HORIZONTALLY by adding a slide to the right.
-1. The 3 last slides should always be: Conclusions, Learn more (with the reference links) and Assignment.
+1. The 3 last slides should always be: Conclusions, Learn more (with the reference links) and Challenge.
 
-## Talk standards
+## Talk standards: the DO's
 
-1. BALANCE CONCEPTS AND TECHNICAL CONTENT. It's a matter of finding the 'sweet spot', where the presenter keeps the subject interesting for everybody, has a good velocity and touches deeper concept details wisely.
+1. BE BALANCED BETWEEN CONCEPTUAL AND TECHNICAL CONTENT. It's a matter of finding the 'sweet spot', where the presenter keeps the subject interesting for everybody, has a good velocity and touches deeper concept details wisely.
 1. BE CONSISTENT. Make sure you watched some previous AC talks to better understand about how to use your voice and conduct the talk.
 1. BE POLITE. Don't use slangs neither bad words.
 1. BE OBJECTIVE. Don't overexplain in such way you could cause confusion to your attendees. 
-1. DON'T BE BORING. You should be yourself. It is ok to joke around, but don't exaggerate.
 1. KEEP FOCUS. It is ok to bring brief off-topic discussions, but only if it doesn't disturb the natural flow of your content.
 1. BE PREPARED. If you are going to use examples or live coding, make sure you have them all prepared beforehand.
+1. USE REAL DATA. Make sure you put trustable references on data you expose. Like, you can't base on your own expertise to say that Backbone.js is used on 60% of the websites that use a MV* framework. You need to prove that with real data and provide a trustable reference on this data.
+1. TRAIN your english speaking. You will be listened by people all around the globe.
+1. TRAIN your full talk at least once before your talk.
+
+## Talk standards: the DONT's
+
+1. DO NEVER SHOW REAL CODE FROM THE CLIENT. This is CRITICAL and can cause serious problems.
 1. DON'T BE ARROGANT. Don't focus on yourself, like "you are awesome because you know lots of stuff". You could be Chuck Norris or Yoda, but please remember that people are not watching this talk to know about your adventures. It is ok to talk about something great that you did but just as an illustrative example which is related with the talk subject.
 1. DON'T GENERALIZE, specially stuff that you are not sure about. For instance, you can't come and say that Backbone.js is the most robust MV* framework or that SASS is the fastest CSS pre-processor - you would need to prove that, so we would even recommend you not saying such things.
-1. USE REAL DATA. Make sure you put trustable references on data you expose. Like, you can't base on your own expertise to say that Backbone.js is used on 60% of the websites that use a MV* framework. You need to prove that with real data and provide a trustable reference on this data.
-1. Train your english speaking. You will be listened by people all around the globe.
-1. Train your full talk at least once before your talk.
+1. DON'T BE BORING. You should be yourself. It is ok to joke around, but don't exaggerate.
 
 ## Tips from UI Bootcamp organizers:
 
