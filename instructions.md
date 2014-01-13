@@ -67,7 +67,7 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
 
 ## Talk standards: the DONT's
 
-1. DO NEVER SHOW REAL CODE FROM THE CLIENT. This is CRITICAL and can cause serious problems.
+1. DO NEVER SHOW REAL CODE FROM THE CLIENT. This is CRITICAL and can cause serious problems. If the client scenario is really helpful to the presentation, abstract it to a simpler version and do another code with different names, data and everything else that might identify or compromise.
 1. DON'T BE ARROGANT. Don't focus on yourself, like "you are awesome because you know lots of stuff". You could be Chuck Norris or Yoda, but please remember that people are not watching this talk to know about your adventures. It is ok to talk about something great that you did but just as an illustrative example which is related with the talk subject.
 1. DON'T GENERALIZE, specially stuff that you are not sure about. For instance, you can't come and say that Backbone.js is the most robust MV* framework or that SASS is the fastest CSS pre-processor - you would need to prove that, so we would even recommend you not saying such things.
 1. DON'T BE BORING. You should be yourself. It is ok to joke around, but don't exaggerate.
