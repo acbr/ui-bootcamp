@@ -253,6 +253,7 @@ Back to [Contents](#contents).
 * [The Anatomy of Backbone.js - Codeschool](http://backbone.codeschool.com)
 * [How Backbone works behind the scenes](http://backbonejs.org/docs/backbone.html)
 * [API-First - Design apps from the API](http://www.api-first.com/)
+* [Tasker project](https://github.com/tiagorg/tasker)
 
 #### How to organize your app:
 
