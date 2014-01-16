@@ -168,7 +168,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td><a href="#compass">Compass</a></td>
         <td></td>
         <td>Apr 7th, 2014</td>
-        <td><td><a href="http://github.com/fegemo">Flávio Coutinho</a></td></td>
+        <td><a href="http://github.com/fegemo">Flávio Coutinho</a></td>
     </tr>            
 </table>
 
