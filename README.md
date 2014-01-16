@@ -19,7 +19,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td><b>Presented by</b></td>
     </tr>
     <tr>
-        <td rowspan="8"><a href="#javascript">Javascript</a></td>
+        <td rowspan="9"><a href="#javascript">Javascript</a></td>
         <td><a href="#javascript-for-real">Javascript for Real</a></td>
         <td>Aug 13th, 2013 / Aug 28th, 2013</td>
         <td><a href="http://github.com/tiagorg">Tiago Garcia</a></td>
@@ -35,29 +35,34 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td><a href="http://github.com/gtrindade">Guilherme Gonçalves</a></td>
     </tr>
     <tr>
-        <td>Javascript micro-libraries</td>
+        <td>HTML5 JS APIs</td>
         <td>Mar 6th, 2014</td>
+        <td>Eduardo Silva</td>
+    </tr>    
+    <tr>
+        <td>Javascript micro-libraries</td>
+        <td>Mar 10th, 2014</td>
         <td><a href="http://github.com/cironunes">Ciro Nunes</a></td>
     </tr>
     <tr>
         <td>Javascript code coverage</td>
-        <td>Mar 10th, 2014</td>
-        <td>??</td>
+        <td>Mar 17th, 2014</td>
+        <td><a href="http://github.com/rafaelmenta">Rafael Guedes</a></td>
     </tr>
     <tr>
         <td>Javascript promises</td>
-        <td>Mar 17th, 2014</td>
-        <td>??</td>
+        <td>Mar 20th, 2014</td>
+        <td>Arlindo Neto</td>
     </tr>
     <tr>
         <td>Design Patterns for Javascript organization</td>
-        <td>Mar 20th, 2014</td>
+        <td>Mar 24th, 2014</td>
         <td><a href="http://github.com/tiagorg">Tiago Garcia</a></td>
     </tr>
     <tr>
         <td>ECMAScript 6</td>
-        <td>Mar 31st, 2014</td>
-        <td>??</td>
+        <td>Apr 3rd, 2014</td>
+        <td><a href="http://github.com/fegemo">Flávio Coutinho</a></td>
     </tr>
     <tr>
         <td><a href="#backbonejs">Backbone.js</a></td>
@@ -91,26 +96,26 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
     </tr>
     <tr>
         <td><a href="#underscorejs">Underscore.js</a></td>
-        <td></td>
-        <td>Feb 10th, 2014</td>
+        <td>Functional programming using Undercore.js</td>
+        <td>Feb 13th, 2014</td>
         <td><a href="http://github.com/mxtopher">Cristopher Silva</a></td>
-    </tr>
-    <tr>
-        <td><a href="#angularjs">AngularJS</a></td>
-        <td></td>
-        <td>Feb 17th, 2014</td>
-        <td><a href="http://github.com/rafaelmenta">Rafael Guedes</a></td>
     </tr>
     <tr>
         <td><a href="#yeoman">Yeoman</a></td>
         <td></td>
-        <td>Feb 13th, 2014</td>
-        <td>??</td>
+        <td>Feb 17th, 2014</td>
+        <td><a href="http://github.com/igorlima">Igor Lima</a></td>
+    </tr>
+    <tr>
+        <td><a href="#angularjs">AngularJS</a></td>
+        <td></td>
+        <td>Feb 20th, 2014</td>
+        <td><a href="http://github.com/rafaelmenta">Rafael Guedes</a></td>
     </tr>
     <tr>
         <td><a href="#jquery">jQuery</a></td>
         <td>Good jQuery practices</td>
-        <td>Mar 27th, 2014</td>
+        <td>Mar 31st, 2014</td>
         <td><a href="http://github.com/henriquecholo">Henrique Filho</a></td>
     </tr>
 </table>
@@ -131,39 +136,39 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td><a href="https://github.com/arthurcamara1">Arthur Câmara</a></td>
     </tr>
     <tr>
-        <td><a href="#responsive-design">Responsive design</a></td>
+        <td><a href="#html5">HTML5</a></td>
         <td></td>
         <td>Feb 6th, 2014</td>
         <td>Raphael Oliveira</td>
-    </tr>    
-    <tr>
-        <td><a href="#html5">HTML5</a></td>
-        <td></td>
-        <td>Feb 20th, 2014</td>
-        <td>??</td>
     </tr>
     <tr>
         <td rowspan="2"><a href="#css3">CSS3</a></td>
         <td></td>
-        <td>Feb 24th, 2014</td>
-        <td>??</td>
+        <td>Feb 10th, 2014</td>
+        <td>Raphael Oliveira</td>
     </tr>            
     <tr>
-        <td>Scalable and Modular CSS</td>
-        <td>Mar 24th, 2014</td>
-        <td><a href="http://github.com/cironunes">Ciro Nunes</a></td>
-    </tr>            
+        <td><a href="#responsive-design">Responsive design</a></td>
+        <td></td>
+        <td>Feb 24th, 2014</td>
+        <td>Raphael Oliveira</td>
+    </tr>    
     <tr>
         <td><a href="#twitter-bootstrap">Twitter bootstrap and Foundation</a></td>
         <td></td>
         <td>Feb 27th, 2014</td>
-        <td>??</td>
+        <td><a href="http://github.com/henriquecholo">Henrique Filho</a></td>
     </tr>
+    <tr>
+        <td>Scalable and Modular CSS</td>
+        <td>Mar 27th, 2014</td>
+        <td><a href="http://github.com/cironunes">Ciro Nunes</a></td>
+    </tr>            
     <tr>
         <td><a href="#compass">Compass</a></td>
         <td></td>
-        <td>Mar 13th, 2014</td>
-        <td>??</td>
+        <td>Apr 7th, 2014</td>
+        <td><td><a href="http://github.com/fegemo">Flávio Coutinho</a></td></td>
     </tr>            
 </table>
 
