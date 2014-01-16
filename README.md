@@ -318,15 +318,13 @@ Back to [Contents](#contents).
 
 Back to [Contents](#contents).
 
-https://slid.es/avenuecode/an-overview-about-jasmine-testing
-
 <a name="jasmine"></a>
 ## Jasmine
 
 <a name="an-overview-about-testing-and-jasmine"></a>
 ### AC Talk: *An overview about testing and Jasmine* by [Igor Lima](http://github.com/igorlima)
 
-* [Slide deck @ slid.es](https://slid.es/avenuecode/an-overview-about-jasmine-testing)
+* [Slide deck @ slid.es](https://slid.es/avenuecode/an-overview-about-testing-and-jasmine)
 * Youtube video
  
 #### Prerequisites:
