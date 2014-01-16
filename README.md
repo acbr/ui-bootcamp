@@ -20,7 +20,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
     </tr>
     <tr>
         <td rowspan="8"><a href="#javascript">Javascript</a></td>
-        <td><a href="javascript-for-real">Javascript for Real</a></td>
+        <td><a href="#javascript-for-real">Javascript for Real</a></td>
         <td>Aug 13th, 2013 / Aug 28th, 2013</td>
         <td><a href="http://github.com/tiagorg">Tiago Garcia</a></td>
     </tr>
@@ -73,13 +73,13 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
     </tr>
     <tr>
         <td><a href="#handlebarsjs">Handlebars.js</a></td>
-        <td>??</td>
+        <td><a href="#boosting-even-more-the-client-side-with-handlebarsjs">Boosting even more the client-side with Handlebars.js</a></td>
         <td>Jan 20th, 2014</td>
         <td><a href="http://github.com/alysson-macys">Alysson Ferreira</a></td>
     </tr>
     <tr>
         <td><a href="#jasmine">Jasmine</a></td>
-        <td>??</td>
+        <td><a href="#an-overview-about-testing-and-jasmine">An overview about testing and Jasmine</a></td>
         <td>Jan 23rd, 2014</td>
         <td><a href="http://github.com/igorlima">Igor Lima</a></td>
     </tr>
@@ -289,5 +289,49 @@ Back to [Contents](#contents).
 * [Require JS Official website](requirejs.org)
     * [Advanced Usage](http://requirejs.org/docs/faq-advanced.html)
 * [Egghead example](https://egghead.io/lessons/requirejs-introduction-to-requirejs)
+
+Back to [Contents](#contents).
+
+<a name="handlebarsjs"></a>
+## Handlebars.js
+
+<a name="boosting-even-more-the-client-side-with-handlebarsjs"></a>
+### AC Talk: *Boosting even more the client-side with Handlebars.js* by [Alysson Ferreira](http://github.com/alysson-macys)
+
+* [Slide deck @ slid.es](http://slid.es/avenuecode/boosting-even-more-the-client-side-with-handlebarsjs)
+* Youtube video
+ 
+#### Prerequisites:
+
+* Javascript intermediate/advanced
+
+#### Resources:
+
+* [Official website](http://handlebarsjs.com)
+* [Javascript.is (Sexy) Blog - Richard of Stanley](http://javascriptissexy.com/handlebars-js-tutorial-learn-everything-about-handlebars-js-javascript-templating)
+* [Try Handlebars.js right now in your browser - James Fuller](http://tryhandlebarsjs.com)
+
+Back to [Contents](#contents).
+
+https://slid.es/avenuecode/an-overview-about-jasmine-testing
+
+<a name="jasmine"></a>
+## Jasmine
+
+<a name="an-overview-about-testing-and-jasmine"></a>
+### AC Talk: *An overview about testing and Jasmine* by [Igor Lima](http://github.com/igorlima)
+
+* [Slide deck @ slid.es](https://slid.es/avenuecode/an-overview-about-jasmine-testing)
+* Youtube video
+ 
+#### Prerequisites:
+
+* Basic javascript
+
+#### Resources:
+
+* [Official wesite](http://pivotal.github.io/jasmine/)
+* [Jasmine-node](https://github.com/mhevery/jasmine-node)
+* [Plunker](http://plnkr.co/)
 
 Back to [Contents](#contents).
