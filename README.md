@@ -139,13 +139,13 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td><a href="#html5">HTML5</a></td>
         <td></td>
         <td>Feb 6th, 2014</td>
-        <td>Raphael Oliveira</td>
+        <td><a href="https://github.com/raphaelddl">Raphael Oliveira</a></td>
     </tr>
     <tr>
         <td rowspan="2"><a href="#css3">CSS3</a></td>
         <td></td>
         <td>Feb 10th, 2014</td>
-        <td>Raphael Oliveira</td>
+        <td><a href="https://github.com/raphaelddl">Raphael Oliveira</a></td>
     </tr>            
     <tr>
         <td>Scalable and Modular CSS</td>
@@ -156,7 +156,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td><a href="#responsive-design">Responsive design</a></td>
         <td></td>
         <td>Feb 24th, 2014</td>
-        <td>Raphael Oliveira</td>
+        <td><a href="https://github.com/raphaelddl">Raphael Oliveira</a></td>
     </tr>    
     <tr>
         <td><a href="#twitter-bootstrap">Twitter bootstrap and Foundation</a></td>
