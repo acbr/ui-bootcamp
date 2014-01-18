@@ -78,7 +78,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
     </tr>
     <tr>
         <td><a href="#handlebarsjs">Handlebars.js</a></td>
-        <td><a href="#boosting-even-more-the-client-side-with-handlebarsjs">Boosting even more the client-side with Handlebars.js</a></td>
+        <td><a href="#boosting-the-client-side-even-more-with-handlebarsjs">Boosting the client-side even more with Handlebars.js</a></td>
         <td>Jan 20th, 2014</td>
         <td><a href="http://github.com/alysson-macys">Alysson Ferreira</a></td>
     </tr>
@@ -300,15 +300,16 @@ Back to [Contents](#contents).
 <a name="handlebarsjs"></a>
 ## Handlebars.js
 
-<a name="boosting-even-more-the-client-side-with-handlebarsjs"></a>
-### AC Talk: *Boosting even more the client-side with Handlebars.js* by [Alysson Ferreira](http://github.com/alysson-macys)
+<a name="boosting-the-client-side-even-more-with-handlebarsjs"></a>
+### AC Talk: *Boosting the client-side even more with Handlebars.js* by [Alysson Ferreira](http://github.com/alysson-macys)
 
-* [Slide deck @ slid.es](http://slid.es/avenuecode/boosting-even-more-the-client-side-with-handlebarsjs)
+* [Slide deck @ slid.es](http://slid.es/avenuecode/boosting-the-client-side-even-more-with-handlebarsjs)
 * Youtube video
  
 #### Prerequisites:
 
-* Javascript intermediate/advanced
+* Javascript intermediate
+* HTML intermediate
 
 #### Resources:
 
