@@ -244,7 +244,7 @@ Back to [Contents](#contents).
 ### AC Talk: *Boosting the client-side with Backbone.js* by [Tiago Garcia](http://github.com/tiagorg)
 
 * [Slide deck @ slid.es](http://slid.es/avenuecode/boosting-the-client-side-with-backbone-js)
-* Youtube video
+* [Youtube video](http://www.youtube.com/watch?v=8ZzqMFAU_Kw)
  
 #### Prerequisites:
 
