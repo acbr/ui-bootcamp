@@ -25,7 +25,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td><a href="http://github.com/tiagorg">Tiago Garcia</a></td>
     </tr>
     <tr>
-        <td>Design Patterns for Large-Scale Javascript</td>
+        <td><a href="#design-patterns-for-large-scale-javascript">Design Patterns for Large-Scale Javascript</a></td>
         <td>Jan 27th, 2014</td>
         <td><a href="http://github.com/tiagorg">Tiago Garcia</a></td>
     </tr>
@@ -271,6 +271,27 @@ Back to [Contents](#contents).
 #### Live educative sample:
 
 * [Backbone.js - TodoMVC](http://todomvc.com/architecture-examples/backbone/)
+
+Back to [Contents](#contents).
+
+<a name="design-patterns-for-large-scale-javascript"></a>
+### AC Talk: *Design Patterns for Large-Scale Javascript* by [Tiago Garcia](http://github.com/tiagorg)
+
+* [Slide deck @ slid.es](https://slid.es/avenuecode/design-patterns-for-large-scale-javascript)
+* Youtube video
+ 
+#### Prerequisites:
+
+* Intermediate Javascript
+* Advanced OOP
+* Familiarity with Design Patterns
+
+#### Resources:
+
+* [Learning JavaScript Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns)
+* [Patterns for Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript)
+* [Javascript Patterns - Stoyan Stefanov](http://shop.oreilly.com/product/9780596806767.do)
+* [AuraJS](http://aurajs.com)
 
 Back to [Contents](#contents).
 
