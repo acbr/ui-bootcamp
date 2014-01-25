@@ -137,7 +137,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
     </tr>
     <tr>
         <td><a href="#html5">HTML5</a></td>
-        <td></td>
+        <td><a href="#html5">HTML5</a></td>
         <td>Feb 6th, 2014</td>
         <td><a href="https://github.com/raphaelddl">Raphael Oliveira</a></td>
     </tr>
@@ -358,5 +358,31 @@ Back to [Contents](#contents).
 * [Official wesite](http://pivotal.github.io/jasmine/)
 * [Jasmine-node](https://github.com/mhevery/jasmine-node)
 * [Plunker](http://plnkr.co/)
+
+Back to [Contents](#contents).
+
+<a name="html5"></a>
+## HTML5
+
+<a name="html5"></a>
+### AC Talk: *HTML5* by [Raphael Oliveira](https://github.com/raphaelddl)
+
+* [Slide deck @ slid.es](http://raphaelddl.github.io/ACTalks-HTML5)
+* Youtube video
+ 
+#### Prerequisites:
+
+* Basic javascript
+
+#### Resources:
+
+* [W3C Differences from HTML4](http://www.w3.org/TR/html5-diff/)
+* [WHATWG HTML5 Differences](https://rawgithub.com/whatwg/html-differences/master/Overview.html)
+* [WHATWG Text Semantic](http://www.whatwg.org/specs/web-apps/current-work/multipage/text-level-semantics.html)
+* [HTML5Rocks](http://www.html5rocks.com/en/)
+* [HTML5Doctor](http://www.html5doctor.com/)
+* [HTML5Rocks](http://www.html5rocks.com/en/)
+* [HTML5Rocks Slides/Presentation](http://slides.html5rocks.com/)
+* [*BONUS* Shadow DOM explained](http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
 
 Back to [Contents](#contents).
