@@ -209,32 +209,25 @@ If you are giving a talk, please check the [Instructions](https://github.com/acb
 
 Back to [Contents](#contents).
 
-<a name="sass"></a>
-## SASS
+<a name="design-patterns-for-large-scale-javascript"></a>
+### AC Talk: *Design Patterns for Large-Scale Javascript* by [Tiago Garcia](http://github.com/tiagorg)
 
-<a name="building-awesome-ui-components-with-sass"></a>
-### AC Talk: *Building awesome UI components with SASS* by [Arthur Câmara](https://github.com/arthurcamara1)
-
-* [Slide deck in PDF](https://github.com/acbr/ui-bootcamp/blob/master/lectures/Building%20awesome%20UI%20components%20with%20SASS.pdf?raw=true)
-* [Youtube video](http://www.youtube.com/watch?v=h7UussnL6Gs)
-
+* [Slide deck @ slid.es](https://slid.es/avenuecode/design-patterns-for-large-scale-javascript)
+* Youtube video
+ 
 #### Prerequisites:
 
-* HTML
-* CSS
+* Intermediate Javascript
+* Advanced OOP
+* Familiarity with Design Patterns
 
 #### Resources:
 
-* [Official website](http://sass-lang.com)
-* [Simple tutorial](http://net.tutsplus.com/sessions/mastering-sass)
-* [The SASS way](http://thesassway.com)
- 
-#### Expand to other frameworks:
+* [Learning JavaScript Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns)
+* [Patterns for Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript)
+* [Javascript Patterns - Stoyan Stefanov](http://shop.oreilly.com/product/9780596806767.do)
+* [AuraJS](http://aurajs.com)
 
-* [LESS](http://lesscss.org)
-* [Compass](http://compass-style.org)
-* [Stylus](http://learnboost.github.io/stylus)
- 
 Back to [Contents](#contents).
 
 <a name="backbonejs"></a>
@@ -271,27 +264,6 @@ Back to [Contents](#contents).
 #### Live educative sample:
 
 * [Backbone.js - TodoMVC](http://todomvc.com/architecture-examples/backbone/)
-
-Back to [Contents](#contents).
-
-<a name="design-patterns-for-large-scale-javascript"></a>
-### AC Talk: *Design Patterns for Large-Scale Javascript* by [Tiago Garcia](http://github.com/tiagorg)
-
-* [Slide deck @ slid.es](https://slid.es/avenuecode/design-patterns-for-large-scale-javascript)
-* Youtube video
- 
-#### Prerequisites:
-
-* Intermediate Javascript
-* Advanced OOP
-* Familiarity with Design Patterns
-
-#### Resources:
-
-* [Learning JavaScript Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns)
-* [Patterns for Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript)
-* [Javascript Patterns - Stoyan Stefanov](http://shop.oreilly.com/product/9780596806767.do)
-* [AuraJS](http://aurajs.com)
 
 Back to [Contents](#contents).
 
@@ -372,7 +344,7 @@ Back to [Contents](#contents).
  
 #### Prerequisites:
 
-* Basic javascript
+* Intermediary HTML knowledge
 
 #### Resources:
 
@@ -385,4 +357,32 @@ Back to [Contents](#contents).
 * [HTML5Rocks Slides/Presentation](http://slides.html5rocks.com/)
 * [*BONUS* Shadow DOM explained](http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
 
+Back to [Contents](#contents).
+
+<a name="sass"></a>
+## SASS
+
+<a name="building-awesome-ui-components-with-sass"></a>
+### AC Talk: *Building awesome UI components with SASS* by [Arthur Câmara](https://github.com/arthurcamara1)
+
+* [Slide deck in PDF](https://github.com/acbr/ui-bootcamp/blob/master/lectures/Building%20awesome%20UI%20components%20with%20SASS.pdf?raw=true)
+* [Youtube video](http://www.youtube.com/watch?v=h7UussnL6Gs)
+
+#### Prerequisites:
+
+* HTML
+* CSS
+
+#### Resources:
+
+* [Official website](http://sass-lang.com)
+* [Simple tutorial](http://net.tutsplus.com/sessions/mastering-sass)
+* [The SASS way](http://thesassway.com)
+ 
+#### Expand to other frameworks:
+
+* [LESS](http://lesscss.org)
+* [Compass](http://compass-style.org)
+* [Stylus](http://learnboost.github.io/stylus)
+ 
 Back to [Contents](#contents).
