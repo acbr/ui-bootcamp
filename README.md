@@ -3,8 +3,8 @@ AC UI Bootcamp
 
 AC UI Bootcamp is an organized effort towards learning key UI technologies in Avenue Code.
 
-* Slides here: http://slid.es/avenuecode
-* Videos here: http://www.youtube.com/user/AvenueCodePlay
+* Slides here: [http://slid.es/avenuecode](http://slid.es/avenuecode)
+* Videos here: [http://www.youtube.com/user/AvenueCodePlay](http://www.youtube.com/user/AvenueCodePlay)
 
 <a name="contents"></a>
 ## Contents
@@ -30,7 +30,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
         <td><a href="http://github.com/tiagorg">Tiago Garcia</a></td>
     </tr>
     <tr>
-        <td>High Performance Javascript</td>
+        <td><a href="#high-performance-javascript">High Performance Javascript</a></td>
         <td>Jan 30rd, 2014</td>
         <td><a href="http://github.com/gtrindade">Guilherme Gonçalves</a></td>
     </tr>
@@ -227,6 +227,25 @@ Back to [Contents](#contents).
 * [Patterns for Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript)
 * [Javascript Patterns - Stoyan Stefanov](http://shop.oreilly.com/product/9780596806767.do)
 * [AuraJS](http://aurajs.com)
+
+Back to [Contents](#contents).
+
+<a name="high-performance-javascript"></a>
+### AC Talk: *High-Performance Javascript* by [Guilherme Gonçalves](http://github.com/gtrindade)
+
+* [Slide deck @ slid.es](https://slid.es/avenuecode/javascript-high-performance)
+* Youtube video
+ 
+#### Prerequisites:
+
+* Javascript
+
+#### Resources:
+
+* [High Performance JavaScript Book - Nicholas Zakas](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X)
+* [10 Javascript Performance Boosting Tips](http://jonraasch.com/blog/10-javascript-performance-boosting-tips-from-nicholas-zakas)
+* [Optimizing JavaScript code](https://developers.google.com/speed/articles/optimizing-javascript)
+* (www.google.com)
 
 Back to [Contents](#contents).
 
