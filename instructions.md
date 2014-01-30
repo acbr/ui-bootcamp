@@ -79,3 +79,4 @@ Please follow the instructions here about giving a talk for the AC UI Bootcamp. 
 * ALWAYS be polite when talking to your audience.
 * It is common that people will look for you with questions and more complex cases after your talk. Please consider it as a gift, it means that you represent something good for those people! 
 * If you don't give enough attention to people after your talk, you will be very UNFAIR with the chance that was given to you for giving the talk. Please put yourself on their side before reacting.
+* BRING WATER to drink while you present. You will certainly need it!
