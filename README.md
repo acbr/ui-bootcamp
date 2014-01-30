@@ -245,7 +245,7 @@ Back to [Contents](#contents).
 * [High Performance JavaScript Book - Nicholas Zakas](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X)
 * [10 Javascript Performance Boosting Tips](http://jonraasch.com/blog/10-javascript-performance-boosting-tips-from-nicholas-zakas)
 * [Optimizing JavaScript code](https://developers.google.com/speed/articles/optimizing-javascript)
-* (www.google.com)
+* www.google.com
 
 Back to [Contents](#contents).
 
