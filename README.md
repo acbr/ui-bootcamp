@@ -197,7 +197,7 @@ If you are giving a talk, please check the [Instructions](https://github.com/acb
 * [this x self](http://tableless.com.br/javascript-entendendo-o-this/#.UhVmEGSbj_s)
 * [modular Javascript](http://www.codeproject.com/Articles/247241/Javascript-Module-Pattern)
 * [Closure](http://ryanmorr.com/understanding-scope-and-context-in-javascript)
-* [Hoisting](http://tgarcia.com.br/desenvolvimento/como-funciona-hoisting-em-javascript)
+* [Hoisting](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
 * [Callbacks](http://nodebr.com/como-evitar-o-inferno-de-callbacks/)
 * [Good practices 1](http://www.thinkful.com/learn/javascript-best-practices-1/) and [Good practices 2](http://www.thinkful.com/learn/javascript-best-practices-2)
  
