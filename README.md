@@ -90,7 +90,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
     </tr>
     <tr>
         <td><a href="#grunt">Grunt</a></td>
-        <td>Grunt: The Build Tool for Javascript</td>
+        <td><a href="#grunt-the-build-tool-for-javascript">Grunt: The Build Tool for Javascript</a></td>
         <td>Feb 3rd, 2014</td>
         <td><a href="http://github.com/rafaelmenta">Rafael Guedes</a></td>
     </tr>
@@ -349,6 +349,25 @@ Back to [Contents](#contents).
 * [Official wesite](http://pivotal.github.io/jasmine/)
 * [Jasmine-node](https://github.com/mhevery/jasmine-node)
 * [Plunker](http://plnkr.co/)
+
+Back to [Contents](#contents).
+
+<a name="grunt"></a>
+## Grunt
+
+<a name="grunt-the-build-tool-for-javascript"></a>
+### AC Talk: *Grunt: The build tool for Javascript* by [Rafael Guedes](http://github.com/rafaelmenta)
+
+* [Slide deck @ github](http://acbr.github.io/grunt-presentation/#/)
+* Youtube video
+ 
+#### Prerequisites:
+
+* Node
+* Node Package Manager (NPM)
+
+#### Resources:
+
 
 Back to [Contents](#contents).
 
