@@ -90,7 +90,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
     </tr>
     <tr>
         <td><a href="#grunt">Grunt</a></td>
-        <td>??</td>
+        <td>Grunt: The Build Tool for Javascript</td>
         <td>Feb 3rd, 2014</td>
         <td><a href="http://github.com/rafaelmenta">Rafael Guedes</a></td>
     </tr>
