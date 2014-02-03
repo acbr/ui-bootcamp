@@ -137,7 +137,7 @@ AC UI Bootcamp is an organized effort towards learning key UI technologies in Av
     </tr>
     <tr>
         <td><a href="#html5">HTML5</a></td>
-        <td><a href="#html5">HTML5</a></td>
+        <td><a href="#html5">Brace yourselves, HTML5 has come!</a></td>
         <td>Feb 6th, 2014</td>
         <td><a href="https://github.com/raphaelddl">Raphael Oliveira</a></td>
     </tr>
@@ -356,7 +356,7 @@ Back to [Contents](#contents).
 ## HTML5
 
 <a name="html5"></a>
-### AC Talk: *HTML5* by [Raphael Oliveira](https://github.com/raphaelddl)
+### AC Talk: *Brace yourselves, HTML5 has come!* by [Raphael Oliveira](https://github.com/raphaelddl)
 
 * [Slide deck @ slid.es](http://raphaelddl.github.io/ACTalks-HTML5)
 * Youtube video
