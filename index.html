@@ -1,71 +1,647 @@
 <!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Avenue Code UI Bootcamp by acbr</title>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <title>Avenue Code UI Bootcamp</title>
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <link rel="stylesheet" href="stylesheets/styles.css">
+  <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>Avenue Code UI Bootcamp</h1>
-        <p>Information about AC UI Bootcamp</p>
+</head>
+<body>
+  <a href="https://github.com/acbr/ui-bootcamp" target="blank"><img style="position: absolute; top: 0; left: 0; border: 0; z-index: 999;" src="https://s3.amazonaws.com/github/ribbons/forkme_left_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
+  <div class="wrapper">
+    <header>
+      <img src="images/AClogo.PNG" />
+      <h1>UI Bootcamp</h1>
+      <p>UI Bootcamp is an initiative towards learning key UI technologies in Avenue Code.</p>
 
-        <p class="view"><a href="https://github.com/acbr/ui-bootcamp">View the Project on GitHub <small>acbr/ui-bootcamp</small></a></p>
+      <ul>
+        <li><a href="https://github.com/acbr/ui-bootcamp" target="blank">View On <strong>GitHub</strong></a></li>
+        <li><a href="http://www.youtube.com/user/AvenueCodePlay" target="blank">Watch on <strong>YouTube</strong></a></li>
+        <li><a href="http://www.avenuecode.com" target="blank">Visit our <strong>Website</strong></a></li>
+      </ul>
+
+      <p>Giving a talk? Check out our <a href="http://acbr.github.io/talk-template" target="blank">Talk Template</a> with all the instructions.</p>
+    </header>
+    <section>
+      <article class="markdown-body entry-content" itemprop="mainContentOfPage">
+
+        <h1>AC UI Bootcamp</h1>
+
+        <h2>Next talks</h2>
+
+        <iframe src="http://www.google.com/calendar/embed?src=avenuecode.com_e07177e39fgqd1dar03bd8j4jg%40group.calendar.google.com&ctz=America/Sao_Paulo" style="border: 0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
+
+        <a name="contents"></a>
+        <h2>Contents</h2>
+
+        <h3>Javascript</h3>
+
+          <table>
+            <tbody><tr>
+              <td><b>Subject</b></td>
+              <td><b>Topic</b></td>
+              <td><b>Presented in</b></td>
+              <td><b>Presented by</b></td>
+            </tr>
+            <tr>
+              <td rowspan="9"><a href="#javascript">Javascript</a></td>
+              <td><a href="#javascript-for-real">Javascript for Real</a></td>
+              <td>Aug 13th, 2013 / Aug 28th, 2013</td>
+              <td><a href="http://github.com/tiagorg">Tiago Garcia</a></td>
+            </tr>
+            <tr>
+              <td><a href="#design-patterns-for-large-scale-javascript">Design Patterns for Large-Scale Javascript</a></td>
+              <td>Jan 27th, 2014</td>
+              <td><a href="http://github.com/tiagorg">Tiago Garcia</a></td>
+            </tr>
+            <tr>
+              <td><a href="#high-performance-javascript">High Performance Javascript</a></td>
+              <td>Jan 30rd, 2014</td>
+              <td><a href="http://github.com/gtrindade">Guilherme Gonçalves</a></td>
+            </tr>
+            <tr>
+              <td>HTML5 JS APIs</td>
+              <td>Mar 6th, 2014</td>
+              <td><a href="http://github.com/eduardo305">Eduardo Silva</a></td>
+            </tr>
+            <tr>
+              <td>Javascript micro-libraries</td>
+              <td>Mar 10th, 2014</td>
+              <td><a href="http://github.com/cironunes">Ciro Nunes</a></td>
+            </tr>
+            <tr>
+              <td>Javascript code coverage</td>
+              <td>Mar 17th, 2014</td>
+              <td><a href="http://github.com/rafaelmenta">Rafael Guedes</a></td>
+            </tr>
+            <tr>
+              <td>Javascript promises</td>
+              <td>Mar 20th, 2014</td>
+              <td><a href="http://github.com/http://github.com/">Arlindo Neto</a></td>
+            </tr>
+            <tr>
+              <td>Design Patterns for Javascript organization</td>
+              <td>Mar 24th, 2014</td>
+              <td><a href="http://github.com/tiagorg">Tiago Garcia</a></td>
+            </tr>
+            <tr>
+              <td>ECMAScript 6</td>
+              <td>Apr 3rd, 2014</td>
+              <td><a href="http://github.com/fegemo">Flávio Coutinho</a></td>
+            </tr>
+            <tr>
+              <td><a href="#backbonejs">Backbone.js</a></td>
+              <td><a href="#boosting-the-client-side-with-backbonejs">Boosting the client-side with Backbone.js</a></td>
+              <td>Jan 8th, 2014</td>
+              <td><a href="http://github.com/tiagorg">Tiago Garcia</a></td>
+            </tr>
+            <tr>
+              <td><a href="#amd-requirejs">AMD / RequireJS</a></td>
+              <td><a href="#a-javascript-module-loader-requirejs">A Javascript Module Loader - RequireJS</a></td>
+              <td>Jan 14th, 2014</td>
+              <td><a href="http://github.com/henriquecholo">Henrique Filho</a></td>
+            </tr>
+            <tr>
+              <td><a href="#handlebarsjs">Handlebars.js</a></td>
+              <td><a href="#boosting-the-client-side-even-more-with-handlebarsjs">Boosting the client-side even more with Handlebars.js</a></td>
+              <td>Jan 20th, 2014</td>
+              <td><a href="http://github.com/alysson-macys">Alysson Ferreira</a></td>
+            </tr>
+            <tr>
+              <td><a href="#jasmine">Jasmine</a></td>
+              <td><a href="#an-overview-about-testing-and-jasmine">An overview about testing and Jasmine</a></td>
+              <td>Jan 23rd, 2014</td>
+              <td><a href="http://github.com/igorlima">Igor Lima</a></td>
+            </tr>
+            <tr>
+              <td><a href="#grunt">Grunt</a></td>
+              <td><a href="#grunt-the-build-tool-for-javascript">Grunt: The Build Tool for Javascript</a></td>
+              <td>Feb 3rd, 2014</td>
+              <td><a href="http://github.com/rafaelmenta">Rafael Guedes</a></td>
+            </tr>
+            <tr>
+              <td><a href="#underscorejs">Underscore.js</a></td>
+              <td>Functional programming using Undercore.js</td>
+              <td>Feb 13th, 2014</td>
+              <td><a href="http://github.com/mxtopher">Cristopher Silva</a></td>
+            </tr>
+            <tr>
+              <td><a href="#yeoman">Yeoman</a></td>
+              <td></td>
+              <td>Feb 17th, 2014</td>
+              <td><a href="http://github.com/igorlima">Igor Lima</a></td>
+            </tr>
+            <tr>
+              <td><a href="#angularjs">AngularJS</a></td>
+              <td></td>
+              <td>Feb 20th, 2014</td>
+              <td><a href="http://github.com/rafaelmenta">Rafael Guedes</a></td>
+            </tr>
+            <tr>
+              <td><a href="#jquery">jQuery</a></td>
+              <td>Good jQuery practices</td>
+              <td>Mar 31st, 2014</td>
+              <td><a href="http://github.com/henriquecholo">Henrique Filho</a></td>
+            </tr>
+          </tbody></table>
+
+          <h3>Presentation</h3>
+
+          <table>
+            <tbody><tr>
+              <td><b>Subject</b></td>
+              <td><b>Topic</b></td>
+              <td><b>Presented in</b></td>
+              <td><b>Presented by</b></td>
+            </tr>
+            <tr>
+              <td><a href="#sass">SASS</a></td>
+              <td><a href="#building-awesome-ui-components-with-sass">Building awesome UI components with SASS</a></td>
+              <td>Sep 25th, 2013</td>
+              <td><a href="https://github.com/arthurcamara1">Arthur Câmara</a></td>
+            </tr>
+            <tr>
+              <td><a href="#html5">HTML5</a></td>
+              <td><a href="#brace-yourselves-html5-has-come">Brace yourselves, HTML5 has come!</a></td>
+              <td>Feb 6th, 2014</td>
+              <td><a href="https://github.com/raphaelddl">Raphael Oliveira</a></td>
+            </tr>
+            <tr>
+              <td rowspan="2"><a href="#css3">CSS3</a></td>
+              <td><a href="#the-magic-of-css">The Magic of CSS</a></td>
+              <td>Feb 10th, 2014</td>
+              <td><a href="https://github.com/raphaelddl">Raphael Oliveira</a></td>
+            </tr>
+            <tr>
+              <td>Scalable and Modular CSS</td>
+              <td>Mar 27th, 2014</td>
+              <td><a href="http://github.com/cironunes">Ciro Nunes</a></td>
+            </tr>
+            <tr>
+              <td><a href="#responsive-design">Responsive design</a></td>
+              <td></td>
+              <td>Feb 24th, 2014</td>
+              <td><a href="https://github.com/raphaelddl">Raphael Oliveira</a></td>
+            </tr>
+            <tr>
+              <td><a href="#twitter-bootstrap">Twitter bootstrap and Foundation</a></td>
+              <td></td>
+              <td>Feb 27th, 2014</td>
+              <td><a href="http://github.com/henriquecholo">Henrique Filho</a></td>
+            </tr>
+            <tr>
+              <td><a href="#compass">Compass</a></td>
+              <td></td>
+              <td>Apr 7th, 2014</td>
+              <td><a href="http://github.com/fegemo">Flávio Coutinho</a></td>
+            </tr>
+          </tbody></table>
+
+          <!-- Javascript -->
+          <a name="javascript"></a>
+
+          <h2>Javascript</h2>
+
+            <!-- Javascript for real -->
+            <a name="javascript-for-real"></a>
+
+            <h3>
+              <a name="ac-talk-javascript-for-real-by-tiago-garcia" class="anchor" href="#ac-talk-javascript-for-real-by-tiago-garcia"><span class="octicon octicon-link"></span></a>AC Talk: <em>Javascript for real</em> by <a href="http://github.com/tiagorg">Tiago Garcia</a>
+            </h3>
+
+            <ul>
+              <li><a href="http://www.youtube.com/watch?v=kV5uEoyJ-pQ">Youtube video - Part 1</a></li>
+              <li><a href="http://www.youtube.com/watch?v=cSYSQyHwQ5o">Youtube video - Part 2</a></li>
+            </ul>
+
+            <h4>Prerequisites:</h4>
+
+            <ul>
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>Familiary with Javascript</li>
+            </ul>
+
+            <h4>Resources:</h4>
+
+            <ul>
+              <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Values,_variables,_and_literals">Values, variables and literals</a></li>
+              <li><a href="http://tableless.com.br/javascript-entendendo-o-this/#.UhVmEGSbj_s">this x self</a></li>
+              <li><a href="http://www.codeproject.com/Articles/247241/Javascript-Module-Pattern">modular Javascript</a></li>
+              <li><a href="http://ryanmorr.com/understanding-scope-and-context-in-javascript">Closure</a></li>
+              <li><a href="http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html">Hoisting</a></li>
+              <li><a href="http://nodebr.com/como-evitar-o-inferno-de-callbacks/">Callbacks</a></li>
+              <li>
+                <a href="http://www.thinkful.com/learn/javascript-best-practices-1/">Good practices 1</a> and <a href="http://www.thinkful.com/learn/javascript-best-practices-2">Good practices 2</a>
+              </li>
+            </ul>
+
+            <h4>Learn Javascript:</h4>
+
+            <ul>
+              <li><a href="http://jsforcats.com">Javascript for Cats - basic</a></li>
+              <li><a href="http://eloquentjavascript.net/contents.html">Eloquent Javascript - intermediate to advanced</a></li>
+              <li><a href="http://shop.oreilly.com/product/9780596517748.do">Javascript: The Good Parts - intermediate to advanced</a></li>
+            </ul>
+
+            <p>Back to <a href="#contents">Contents</a>.</p>
 
 
-        <ul>
-          <li><a href="https://github.com/acbr/ui-bootcamp/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/acbr/ui-bootcamp/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="https://github.com/acbr/ui-bootcamp">View On <strong>GitHub</strong></a></li>
-        </ul>
-      </header>
-      <section>
-        <h3>
-<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
+            <!-- Design Patterns for Large-Scale Javascript -->
+            <a name="design-patterns-for-large-scale-javascript"></a>
 
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
+            <h3>
+              AC Talk: <em>Design Patterns for Large-Scale Javascript</em> by <a href="http://github.com/tiagorg">Tiago Garcia</a>
+            </h3>
 
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
+            <ul>
+              <li><a href="https://slid.es/avenuecode/design-patterns-for-large-scale-javascript">Slide deck @ slid.es</a></li>
+              <li>Youtube video</li>
+            </ul>
 
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
+            <h4>Prerequisites:</h4>
 
-<h3>
-<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
+            <ul>
+              <li>Intermediate Javascript</li>
+              <li>Advanced OOP</li>
+              <li>Familiarity with Design Patterns</li>
+            </ul>
 
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
+            <h4>Resources:</h4>
 
-<h3>
-<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
+            <ul>
+              <li><a href="http://addyosmani.com/resources/essentialjsdesignpatterns">Learning JavaScript Design Patterns - Addy Osmani</a></li>
+              <li><a href="http://addyosmani.com/largescalejavascript">Patterns for Large-Scale JavaScript Application Architecture</a></li>
+              <li><a href="http://shop.oreilly.com/product/9780596806767.do">Javascript Patterns - Stoyan Stefanov</a></li>
+              <li><a href="http://aurajs.com">AuraJS</a></li>
+            </ul>
 
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
+            <p>Back to <a href="#contents">Contents</a>.</p>
 
-<h3>
-<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
 
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
+            <!-- High-Performance Javascript -->
+            <a name="high-performance-javascript"></a>
 
-<h3>
-<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
+            <h3>
+              AC Talk: <em>High-Performance Javascript</em> by <a href="http://github.com/gtrindade">Guilherme Gonçalves</a>
+            </h3>
 
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
-      <footer>
-        <p>This project is maintained by <a href="https://github.com/acbr">acbr</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
+            <ul>
+              <li><a href="https://slid.es/avenuecode/javascript-high-performance">Slide deck @ slid.es</a></li>
+              <li>Youtube video</li>
+            </ul>
+
+            <h4>Prerequisites:</h4>
+
+            <ul>
+              <li>Javascript</li>
+            </ul>
+
+            <h4>Resources:</h4>
+
+            <ul>
+              <li><a href="http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X">High Performance JavaScript Book - Nicholas Zakas</a></li>
+              <li><a href="http://jonraasch.com/blog/10-javascript-performance-boosting-tips-from-nicholas-zakas">10 Javascript Performance Boosting Tips</a></li>
+              <li><a href="https://developers.google.com/speed/articles/optimizing-javascript">Optimizing JavaScript code</a></li>
+              <li><a href="http://www.google.com">www.google.com</a></li>
+            </ul>
+
+            <p>Back to <a href="#contents">Contents</a>.</p>
+
+
+
+          <!-- Backbone.js -->
+          <a name="backbonejs"></a>
+
+          <h2>Backbone.js</h2>
+
+            <!-- Boosting the client-side with Backbone.js -->
+            <a name="boosting-the-client-side-with-backbonejs"></a>
+
+            <h3>
+              <a name="ac-talk-boosting-the-client-side-with-backbonejs-by-tiago-garcia" class="anchor" href="#ac-talk-boosting-the-client-side-with-backbonejs-by-tiago-garcia"><span class="octicon octicon-link"></span></a>AC Talk: <em>Boosting the client-side with Backbone.js</em> by <a href="http://github.com/tiagorg">Tiago Garcia</a>
+            </h3>
+
+            <ul>
+              <li><a href="http://slid.es/avenuecode/boosting-the-client-side-with-backbone-js">Slide deck @ slid.es</a></li>
+              <li><a href="http://www.youtube.com/watch?v=8ZzqMFAU_Kw">Youtube video</a></li>
+            </ul>
+
+            <h4>Prerequisites:</h4>
+
+            <ul>
+              <li>Javascript</li>
+              <li>Familiarity with web frameworks such as Struts, JSF, Rails, Spring MVC...</li>
+            </ul>
+
+            <h4>Resources:</h4>
+
+            <ul>
+              <li><a href="http://backbonejs.org">Official website</a></li>
+              <li><a href="http://addyosmani.github.io/backbone-fundamentals">Developing Backbone.js Applications - Addy Osmani</a></li>
+              <li><a href="http://backbone.codeschool.com">The Anatomy of Backbone.js - Codeschool</a></li>
+              <li><a href="http://backbonejs.org/docs/backbone.html">How Backbone works behind the scenes</a></li>
+              <li><a href="http://www.api-first.com/">API-First - Design apps from the API</a></li>
+              <li><a href="https://github.com/tiagorg/tasker">Tasker project</a></li>
+            </ul>
+
+            <h4>How to organize your app:</h4>
+
+            <ul>
+              <li>
+                <a href="https://github.com/yeoman/generator-backbone">Backbone generator - Yeoman</a>
+                <ul>
+                  <li><a href="http://net.tutsplus.com/tutorials/javascript-ajax/building-apps-with-the-yeoman-workflow/">Building Apps With the Yeoman Workflow</a></li>
+                </ul>
+              </li>
+              <li><a href="https://github.com/addyosmani/backbone-boilerplates">Backbone boilerplates - Addy Osmani</a></li>
+              <li><a href="http://backboneboilerplate.com/">Another backbone boilerplate</a></li>
+              <li><a href="http://webapplog.com/super-simple-backbone-starter-kit-boilerplate/">Super Simple Backbone Starter Kit / Boilerplate</a></li>
+            </ul>
+
+            <h4>Live educative sample:</h4>
+
+            <ul>
+              <li><a href="http://todomvc.com/architecture-examples/backbone/">Backbone.js - TodoMVC</a></li>
+            </ul>
+
+            <p>Back to <a href="#contents">Contents</a>.</p>
+
+
+
+          <!-- AMD / RequireJS -->
+          <a name="amd-requirejs"></a>
+
+          <h2>AMD / RequireJS</h2>
+
+            <!-- A Javascript Module Loader - RequireJS -->
+            <a name="a-javascript-module-loader-requirejs"></a>
+
+            <h3>
+              AC Talk: <em>A Javascript Module Loader - RequireJS</em> by <a href="http://github.com/henriquecholo">Henrique Filho</a>
+            </h3>
+
+            <ul>
+              <li><a href="http://slid.es/avenuecode/a-javascript-module-loader-require-js">Slide deck @ slid.es</a></li>
+              <li>Youtube video</li>
+            </ul>
+
+            <h4>Prerequisites:</h4>
+
+            <ul>
+              <li>Javascript intermediate/advanced</li>
+            </ul>
+
+            <h4>Resources:</h4>
+
+            <ul>
+              <li><a href="http://wiki.commonjs.org/wiki/CommonJS">CommonJS wiki</a></li>
+              <li><a href="https://github.com/amdjs/amdjs-api/wiki/AMD">AMD wiki</a></li>
+              <li>
+                <a href="/acbr/ui-bootcamp/blob/master/requirejs.org">Require JS Official website</a>
+                <ul>
+                  <li><a href="http://requirejs.org/docs/faq-advanced.html">Advanced Usage</a></li>
+                </ul>
+              </li>
+              <li><a href="https://egghead.io/lessons/requirejs-introduction-to-requirejs">Egghead example</a></li>
+            </ul>
+
+            <p>Back to <a href="#contents">Contents</a>.</p>
+
+
+
+          <!-- Handlebars -->
+          <a name="handlebarsjs"></a>
+
+          <h2>Handlebars.js</h2>
+
+          <!-- Boosting the client-side even more with Handlebars.js -->
+            <a name="boosting-the-client-side-even-more-with-handlebarsjs"></a>
+
+            <h3>
+              </a>AC Talk: <em>Boosting the client-side even more with Handlebars.js</em> by <a href="http://github.com/alysson-macys">Alysson Ferreira</a>
+            </h3>
+
+            <ul>
+              <li><a href="http://slid.es/avenuecode/boosting-the-client-side-even-more-with-handlebarsjs">Slide deck @ slid.es</a></li>
+              <li>Youtube video</li>
+            </ul>
+
+            <h4>Prerequisites:</h4>
+
+            <ul>
+              <li>Javascript intermediate</li>
+              <li>HTML intermediate</li>
+            </ul>
+
+            <h4>Resources:</h4>
+
+            <ul>
+              <li><a href="http://handlebarsjs.com">Official website</a></li>
+              <li><a href="http://javascriptissexy.com/handlebars-js-tutorial-learn-everything-about-handlebars-js-javascript-templating">Javascript.is (Sexy) Blog - Richard of Stanley</a></li>
+              <li><a href="http://tryhandlebarsjs.com">Try Handlebars.js right now in your browser - James Fuller</a></li>
+            </ul>
+
+            <p>Back to <a href="#contents">Contents</a>.</p>
+
+
+
+          <!-- Jasmine -->
+          <a name="jasmine"></a>
+
+          <h2>Jasmine</h2>
+
+            <!-- An overview about testing and Jasmine -->
+            <a name="an-overview-about-testing-and-jasmine"></a>
+
+            <h3>
+              AC Talk: <em>An overview about testing and Jasmine</em> by <a href="http://github.com/igorlima">Igor Lima</a>
+            </h3>
+
+            <ul>
+              <li><a href="https://slid.es/avenuecode/an-overview-about-testing-and-jasmine">Slide deck @ slid.es</a></li>
+              <li>Youtube video</li>
+            </ul>
+
+            <h4>Prerequisites:</h4>
+
+            <ul>
+              <li>Basic javascript</li>
+            </ul>
+
+            <h4></a>Resources:</h4>
+
+            <ul>
+              <li><a href="http://pivotal.github.io/jasmine/">Official wesite</a></li>
+              <li><a href="https://github.com/mhevery/jasmine-node">Jasmine-node</a></li>
+              <li><a href="http://plnkr.co/">Plunker</a></li>
+            </ul>
+
+            <p>Back to <a href="#contents">Contents</a>.</p>
+
+
+
+          <!-- Grunt -->
+          <a name="grunt"></a>
+
+          <h2>Grunt</h2>
+
+            <!-- Grunt: The build tool for Javascript -->
+            <a name="grunt-the-build-tool-for-javascript"></a>
+
+            <h3>
+              AC Talk: <em>Grunt: The build tool for Javascript</em> by <a href="http://github.com/rafaelmenta">Rafael Guedes</a>
+            </h3>
+
+            <ul>
+              <li><a href="http://rafaelmenta.github.io/talk-grunt">Slide deck @ github</a></li>
+              <li>Youtube video</li>
+            </ul>
+
+            <h4>Prerequisites:</h4>
+
+            <ul>
+              <li>Node</li>
+              <li>Node Package Manager (NPM)</li>
+            </ul>
+
+            <h4>Resources:</h4>
+
+            <p>Back to <a href="#contents">Contents</a>.</p>
+
+
+
+          <!-- HTML5 -->
+          <a name="html5"></a>
+
+          <h2>HTML5</h2>
+
+            <!-- Brace yourselves, HTML5 has come! -->
+            <a name="brace-yourselves-html5-has-come"></a>
+
+            <h3>
+              <a name="ac-talk-brace-yourselves-html5-has-come-by-raphael-oliveira" class="anchor" href="#ac-talk-brace-yourselves-html5-has-come-by-raphael-oliveira"><span class="octicon octicon-link"></span></a>AC Talk: <em>Brace yourselves, HTML5 has come!</em> by <a href="https://github.com/raphaelddl">Raphael Oliveira</a>
+            </h3>
+
+            <ul>
+              <li><a href="http://raphaelddl.github.io/ACTalks-HTML5">Slide deck @ github</a></li>
+              <li>Youtube video</li>
+            </ul>
+
+            <h4>Prerequisites:</h4>
+
+            <ul>
+              <li>Intermediary HTML knowledge</li>
+            </ul>
+
+            <h4>Resources:</h4>
+
+            <ul>
+              <li><a href="http://www.w3.org/TR/html5-diff/">W3C Differences from HTML4</a></li>
+              <li><a href="https://rawgithub.com/whatwg/html-differences/master/Overview.html">WHATWG HTML5 Differences</a></li>
+              <li><a href="http://www.whatwg.org/specs/web-apps/current-work/multipage/text-level-semantics.html">WHATWG Text Semantic</a></li>
+              <li><a href="http://www.html5rocks.com/en/">HTML5Rocks</a></li>
+              <li><a href="http://www.html5doctor.com/">HTML5Doctor</a></li>
+              <li><a href="http://www.html5rocks.com/en/">HTML5Rocks</a></li>
+              <li><a href="http://slides.html5rocks.com/">HTML5Rocks Slides/Presentation</a></li>
+              <li><a href="http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/"><em>BONUS</em> Shadow DOM explained</a></li>
+            </ul>
+
+            <p>Back to <a href="#contents">Contents</a>.</p>
+
+
+
+          <!-- CSS3 -->
+          <a name="css3"></a>
+
+          <h2>CSS 3</h2>
+
+            <!-- The Magic of CSSok-->
+            <a name="the-magic-of-css"></a>
+
+            <h3>
+              AC Talk: <em>The Magic of CSS</em> by <a href="https://github.com/raphaelddl">Raphael Oliveira</a>
+            </h3>
+
+            <ul>
+              <li><a href="http://raphaelddl.github.io/ACTalks-CSS3">Slide deck @ github</a></li>
+              <li>Youtube video</li>
+            </ul>
+
+            <h4>Prerequisites:</h4>
+
+            <ul>
+              <li>Intermediary CSS knowledge</li>
+            </ul>
+
+            <h4>Resources:</h4>
+
+            <ul>
+              <a href="http://css3generator.com/">CSS3 Generator</a>
+              <a href="http://coding.smashingmagazine.com/2009/08/17/taming-advanced-css-selectors/">Taming advanced CSS selectors</a>
+              <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transition">CSS transitions</a>
+              <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_animations">CSS Animations</a>
+              <a href="http://css-tricks.com/how-nth-child-works/">How NTH-CHILD works</a>
+              <a href="http://css-tricks.com/snippets/css/a-guide-to-flexbox/">*BONUS* Complete Guide to Flexbox</a>
+            </ul>
+
+            <p>Back to <a href="#contents">Contents</a>.</p>
+
+
+
+          <!-- SASS -->
+          <a name="sass"></a>
+
+          <h2>SASS</h2>
+
+            <!-- Building awesome components with SASS -->
+            <a name="building-awesome-ui-components-with-sass"></a>
+
+            <h3>
+              <a name="ac-talk-building-awesome-ui-components-with-sass-by-arthur-c%C3%A2mara" class="anchor" href="#ac-talk-building-awesome-ui-components-with-sass-by-arthur-c%C3%A2mara"><span class="octicon octicon-link"></span></a>AC Talk: <em>Building awesome UI components with SASS</em> by <a href="https://github.com/arthurcamara1">Arthur Câmara</a>
+            </h3>
+
+            <ul>
+              <li><a href="https://github.com/acbr/ui-bootcamp/blob/master/lectures/Building%20awesome%20UI%20components%20with%20SASS.pdf?raw=true">Slide deck in PDF</a></li>
+              <li><a href="http://www.youtube.com/watch?v=h7UussnL6Gs">Youtube video</a></li>
+            </ul>
+
+            <h4>Prerequisites:</h4>
+
+            <ul>
+              <li>HTML</li>
+              <li>CSS</li>
+            </ul>
+
+            <h4>Resources:</h4>
+
+            <ul>
+              <li><a href="http://sass-lang.com">Official website</a></li>
+              <li><a href="http://net.tutsplus.com/sessions/mastering-sass">Simple tutorial</a></li>
+              <li><a href="http://thesassway.com">The SASS way</a></li>
+            </ul>
+
+            <h4>Expand to other frameworks:</h4>
+
+            <ul>
+              <li><a href="http://lesscss.org">LESS</a></li>
+              <li><a href="http://compass-style.org">Compass</a></li>
+              <li><a href="http://learnboost.github.io/stylus">Stylus</a></li>
+            </ul>
+
+            <p>Back to <a href="#contents">Contents</a>.</p></article>
+        </section>
+        <footer>
+          <p>This initiative is maintained by <a href="https://github.com/acbr">Avenue Code</a></p>
+          <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        </footer>
     </div>
     <script src="javascripts/scale.fix.js"></script>
-    
   </body>
 </html>
