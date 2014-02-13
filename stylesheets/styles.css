@@ -187,6 +187,14 @@ section h3 {
   padding-top: 10px;
 }
 
+section table tr:first-child td:first-child {
+  width: 20%;
+}
+
+section table tr:first-child td:last-child {
+  width: 25%;
+}
+
 section ul ul {
   margin: 0;
 }
